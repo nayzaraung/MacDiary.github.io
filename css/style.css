@@ -1,5 +1,13 @@
+@font-face{
+  font-family:'MyanmarUnicode';
+  src:url('../fonts/mmrCensus.v4.sh.mif.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal
+}
+
+
 body {
-  font-size: 16px;
+  font-size: 16px; 
 }
 
 /* Custom container */
@@ -17,37 +25,37 @@ body {
 figure.full img {
   width: 100%;
   max-width: 100%;
-  height: auto;
+  height: auto;  
 }
 
 figure.medium
 {
     width:400px;
     margin-top:30px;
-    margin-bottom:30px;
+    margin-bottom:30px;            
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;    
 }
 
 figure.large
 {
     width:500px;
     margin-top:30px;
-    margin-bottom:30px;
+    margin-bottom:30px;            
     margin-left: auto;
-    margin-right: auto;
+    margin-right: auto;    
 }
 
 figure.large img {
-    width:500px;
+    width:500px; 
     height: auto;
 }
 
 figcaption
 {
-    font-family: "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
-    background-color: #EFEFEF;
-    font-size: 90%;
+    font-family: "MyanmarUnicode", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+    background-color: #EFEFEF;    
+    font-size: 90%;        
     margin-left: 1%;
     padding-left: 4%;
     padding-right: 4%;
@@ -55,33 +63,42 @@ figcaption
     display: block;
 }
 
-footer {
+footer { 
  position: relative;
- z-index: 10;
+ z-index: 10; 
  line-height: normal;
- margin-top: 10px;
- font-size: 0.6em;
+ margin-top: 10px; 
+ font-size: 0.7em;
  text-transform: uppercase;
- font-family: 'Liberation Sans', Helvetica, sans-serif;
- padding-top: 2em;
+ font-family: 'Liberation Sans', Helvetica, sans-serif; 
+ padding-top: 2em; 
  text-align: center;
 }
 
 .content h1 {
-  font-family: 'Philosopher', serif;
+  font-family: "MyanmarUnicode", Philosopher, serif;
   color: #3F3F3F;
   font-size: 1.8em;
-  text-align: center;
+  text-align: center; 
   margin-bottom: 40px;
 }
 
 #logo {
   width: 80px;
   margin: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 #logo a {
   border: none;
+}
+
+.site-title h1 {
+  text-align: center;
+  font-size: 1em;
+  color: #444;
+  font-family: "MyanmarUnicode", Philosopher;
 }
 
 #navbar-inner {
@@ -94,7 +111,7 @@ footer {
   border-bottom: 1px solid #989898;
 }
 
-.container {
+.container {  
   margin: 0 auto;
   max-width: 960px;
   margin-top: 5%;
@@ -106,15 +123,22 @@ footer {
 
 .posts {
   text-align: center;
-  padding-top: 5%;
+  padding-top: 2%;
 }
 
-.posts li {
+.posts li {  
   line-height: 90%;
   list-style: none;
 }
 .posts li p {
   margin-bottom: 25px;
+}
+
+.posts span {
+  float: right;
+  text-transform: uppercase;
+  font-size: 0.70em;
+  color: #777777;
 }
 
 .post {
@@ -132,14 +156,15 @@ footer {
 }
 
 p {
-  line-height: 25px;
+  line-height: 35px;
   margin: 0 0 20px;
+  font-family: 'MyanmarUnicode';
 }
 
 .post .content {
   text-align: left;
   margin-top: 3em;
-  font-family: "Liberation Serif", "Palatino Linotype", Georgia, serif;
+  font-family: 'MyanmarUnicode', "Liberation Serif", "Palatino Linotype", Georgia, serif;
   font-size: 18px;
 }
 
@@ -158,16 +183,31 @@ p {
 }
 
 .post-header h1 {
-  font-size: 1.8em;
+  font-size: 1.6em;
   color: #444;
-  font-family: Philosopher;
+  font-family: "MyanmarUnicode", Philosopher;
   margin-bottom: 10px;
 }
 
 .post-header a {
     color: headings-color;
     font-size: 1em;
+    font-family: "MyanmarUnicode", Philosopher;
     color: #444;
+}
+
+.post-header a div{
+    color: headings-color;
+    font-size: 1em;
+    font-family: "MyanmarUnicode", Philosopher;
+    color: #444;
+}
+
+.post-header a:hover div{
+    color: headings-color;
+    font-size: 1em;
+    font-family: "MyanmarUnicode", Philosopher;
+    color: #fa5305;
 }
 
 .post-header a:hover {
@@ -178,6 +218,15 @@ p {
 .post-time {
   margin-top: 3px;
   font-family: Philosopher;
+  color: #8d8d8d;
+}
+
+.post-desc {
+  margin-top: 3px;
+  font-family: "MyanmarUnicode";
+  font-size: 17px;
+  color: #c93838;
+  margin-bottom: 12px;
 }
 
 .post-after {
@@ -204,7 +253,7 @@ p {
 .tags a {
   color: #505050;
   margin-right: 12px;
-  font-size: 0.6em;
+  font-size: 0.7em;
   padding: 5px 8px 2px 8px;
   text-decoration: none;
   text-transform: uppercase;
@@ -212,7 +261,7 @@ p {
   display: inline-block;
   margin-bottom: 8px;
   border-bottom: 3px solid #fa5305;
-  font-family: 'Liberation Sans', Helvetica, 'Helvetica Neue', sans-serif;
+  font-family: "MyanmarUnicode", 'Liberation Sans', Helvetica, 'Helvetica Neue', sans-serif;
 }
 
 .tags a:hover {
@@ -227,6 +276,8 @@ p {
   color: #505050;
   padding-bottom: 2px;
   text-decoration: none;
+  font-family: "MyanmarUnicode", 'Liberation Sans', Helvetica, 'Helvetica Neue', sans-serif;
+  
 }
 
 a:hover {
@@ -238,7 +289,7 @@ blockquote {
   padding: 0 0 0 15px;
   margin: 0 0 20px;
   border-left: 5px solid #fa5305;
-  font-family: Philosopher;
+  font-family: "MyanmarUnicode", Philosopher;
   font-size: 18px;
 }
 
@@ -270,7 +321,7 @@ blockquote {
   text-transform: uppercase;
   text-decoration: none;
   font-size: 15px;
-  font-family: 'Liberation Sans', Helvetica, sans-serif;
+  font-family: "MyanmarUnicode", 'Liberation Sans', Helvetica, sans-serif;
   border-bottom: 4px solid #646464;
 }
 
@@ -292,6 +343,12 @@ pre code {
 }
 
 code, pre {
-    font-family: 'Liberation Mono', Monaco, Consolas;
-    font-size: 14px;
+    font-family: "MyanmarUnicode", 'Liberation Mono', Monaco, Consolas;
+    font-size: 16px;
+    color: #fa5305;
+}
+
+.fblike {
+  text-align: left;
+  margin-top: 5px;
 }
