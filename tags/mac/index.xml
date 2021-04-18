@@ -16,5 +16,18 @@
       <description>Mac OS Catalina မှာ KeyMagic ကီးဘုတ်နဲ့ မြန်မာစာယူနီကုဒ်စနစ် သွင်းယူနည်းဖြစ်ပါတယ်။ လိုအပ်သော ဖိုင်များကို အောက်ပါလင့်ခ်တွင် Download ရယူပါ။ ₪ Unicode For Mac မှတ်ချက်။ ။ KeyMagic 1.5.4 ၏ Keyboard တွင် Pyidaungsu MM ကီးဘုတ်က လက်ကွက်များလည်း မှန်ကန်ပြီး အကောင်းဆုံးဖြစ်ပါကြောင်း အမှားပြင်ဆင်ပါတယ်။ အကယ်၍ ကီးဘုတ်တွေကို ဖျက်လိုက်မိပြီဆိုပါက KeyMagic ကို တစ်ခါပြန် Install လုပ်ပေးလိုက်ပါ။  </description>
     </item>
     
+    <item>
+      <title>Change Log In Background Image on Mac OS X</title>
+      <link>https://nayzaraung.github.io/posts/changeloginbg/</link>
+      <pubDate>Tue, 01 Dec 2015 21:12:55 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/changeloginbg/</guid>
+      <description>Mac ၏ Log In screen တွင် မိမိစိတ်ကြိုက် နောက်ခံပုံများကို ပြောင်းလဲနိုင်ပါတယ်..။
+၁) ပထမဦးစွာ မိမိပြောင်းလဲလိုသော Image, Photo တစ်ခုခုကို Photoshop ကဲ့သို့သော Image editor တစ်ခုခုနှင့် aspect Ratio စကေးကိုက်ညီအောင် အရင်ပြုပြင်ပါ။
+အချိုးများမှာ။ ။ 1280 x 800 pixels, 1680 x 1050 pixels, 1920 x 1200 pixels တို့ဖြစ်ပါတယ်။
+၂) ပြုပြင်ပြီး Image file ကို (.png) format နှင့် Desktop (သို့) တစ်နေရာရာတွင် သိမ်းပါ။ File name ကို “com.apple.desktop.admin.png” ဟု ပြောင်းပါ။
+၃) ထို့နောက် “Finder” ကိုဖွင့်ပြီး “command + shift + G” ကို နှိပ်ပြီး &amp;lsquo;/Library/Caches’ လမ်းကြောင်းကို ရှာပေးပါ။</description>
+    </item>
+    
   </channel>
 </rss>
