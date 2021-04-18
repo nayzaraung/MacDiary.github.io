@@ -1,32 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My Diary</title>
-    <link>https://nayzaraung.github.io/posts/</link>
-    <description>Recent content in Posts on My Diary</description>
+    <title>news on My Diary</title>
+    <link>https://nayzaraung.github.io/tags/news/</link>
+    <description>Recent content in news on My Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Apr 2021 19:45:47 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>How To Install KeyMagic on Mac OS</title>
-      <link>https://nayzaraung.github.io/posts/keymagiconmac/</link>
-      <pubDate>Sun, 18 Apr 2021 19:45:47 +0630</pubDate>
-      
-      <guid>https://nayzaraung.github.io/posts/keymagiconmac/</guid>
-      <description>Mac OS Catalina မှာ KeyMagic ကီးဘုတ်နဲ့ မြန်မာစာယူနီကုဒ်စနစ် သွင်းယူနည်းဖြစ်ပါတယ်။ လိုအပ်သော ဖိုင်များကို အောက်ပါလင့်ခ်တွင် Download ရယူပါ။ ₪ Unicode For Mac မှတ်ချက်။ ။ KeyMagic 1.5.4 ၏ Keyboard တွင် Pyidaungsu MM ကီးဘုတ်က လက်ကွက်များလည်း မှန်ကန်ပြီး အကောင်းဆုံးဖြစ်ပါကြောင်း အမှားပြင်ဆင်ပါတယ်။ အကယ်၍ ကီးဘုတ်တွေကို ဖျက်လိုက်မိပြီဆိုပါက KeyMagic ကို တစ်ခါပြန် Install လုပ်ပေးလိုက်ပါ။  </description>
-    </item>
-    
-    <item>
-      <title>My post</title>
-      <link>https://nayzaraung.github.io/posts/mypost/</link>
-      <pubDate>Sun, 18 Apr 2021 18:12:32 +0630</pubDate>
-      
-      <guid>https://nayzaraung.github.io/posts/mypost/</guid>
-      <description>Hi.. Hi..
-
- </description>
-    </item>
-    
+    <lastBuildDate>Fri, 26 Feb 2016 23:04:26 +0800</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/news/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apple VS FBI</title>
       <link>https://nayzaraung.github.io/posts/applewar/</link>
