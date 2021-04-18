@@ -70,6 +70,18 @@ California ပြည်နယ် San Bernardino မြို့လေးရဲ�
     </item>
     
     <item>
+      <title>Folder Lock with Password on Mac</title>
+      <link>https://nayzaraung.github.io/posts/folderlock/</link>
+      <pubDate>Sun, 06 Dec 2015 20:32:21 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/folderlock/</guid>
+      <description>Mac OS X မှာ မိမိရဲ့ အရေးကြီးတဲ့ Data တွေ၊ ကိုယ်ရေးကိုယ်တာ အချက်လက်တွေကို အခြားသူများ အလွယ်တစ်ကူ ဝင်ရောက် ကြည့်ရှုမရနိုင်အောင် သက်ဆိုင်ရာ Folder ကို Password နဲ့ သော့ခတ်သိမ်းဆည်းထားနိုင်ပါတယ်။ အခြားမည်သည့် third-party applications မှ မလိုအပ်ပဲ လုံခြုံစိတ်ချစွာ သော့ခတ်(encrypt) လုပ်နိုင်ပါလိမ့်မယ်..။
+အထူးသတိပြုရမည့် အချက်ကတော့ မိမိကိုယ်တိုင် Password ကို မေ့သွားခဲ့ပါက Data များကို လုံးဝ ပြန်ဆယ်/ပြန်ယူ၍ ရမည် မဟုတ်တော့ပါ။ ထို့ကြောင့် မိမိ အမြဲသတိရမှတ်မိစေနိုင်မည့် Password မျိုးကိုသာ သတိနှင့် ရွေးချယ် အသုံးပြုပါ။
+၁။ Dock ရှိ Launchpad ကို ဖွင့်ပြီး search box တွင် “Disk Utility” ကို ရှာ၍ ဖွင့်ပါ။
+၂။ &amp;ldquo;Disk Utility” ၏ menu bar မှ File &amp;gt; New Image &amp;gt; Image from Folder ကို ရွေးဖွင့်ပါ။</description>
+    </item>
+    
+    <item>
       <title>Change Log In Background Image on Mac OS X</title>
       <link>https://nayzaraung.github.io/posts/changeloginbg/</link>
       <pubDate>Tue, 01 Dec 2015 21:12:55 +0800</pubDate>
