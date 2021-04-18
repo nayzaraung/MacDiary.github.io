@@ -6,7 +6,18 @@
     <description>Recent content in ios on My Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 16 Jul 2016 20:55:31 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Aug 2017 20:41:15 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to download Youtube Videos on iOS</title>
+      <link>https://nayzaraung.github.io/posts/dlyoutube/</link>
+      <pubDate>Mon, 28 Aug 2017 20:41:15 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/dlyoutube/</guid>
+      <description>ယခင်က YouTube Video နဲ့ အွန်လိုင်းဝဘ်ဆိုက်ပေါ်က ဗီဒီယိုတွေကို အလွယ်တစ်ကူ ဒေါင်းလုတ်ချနိုင်တဲ့ Application တွေ ရှိခဲ့ဖူးပါတယ်။ ကိုယ်ဒေါင်းလုတ် လုပ်ချင်တဲ့ ဗီဒီယိုပေါ်မှာ လက်နဲ့ ကြာကြာ ဖိထားလိုက်တာနဲ့ ဒေါင်းလုပ်ချနိုင်ခဲ့ပါတယ်။
+ ယနေ့အချိန်မှာတော့ Apple က မူပိုင်ခွင့်နဲ့ ပက်သက်ပြီး ပေါ်လစီတင်းကျပ်ခဲ့ပြီး Video, Audio ဒေါင်းလုတ်ချနိုင်တဲ့ App တွေကို ဖယ်ရှားခဲ့သလို Developer တွေကိုလည်း သတိပေးခဲ့ပါတယ်။ ဒါကြောင့်မို့ ယခင်က ဒေါင်းလုပ်ချနိုင်တဲ့ App တွေကို AppStore မှာ ရှာတွေ့ပေမယ့် အသုံးပြုသူရဲ့ Cloud storage (DropBox, GoogleDrive..) စသည်ဖြင့်တွေပေါ်ကနေသာ ဒေါင်းလုတ်ပြုလုပ်နိုင်ပြီး YouTube ပေါ်ကနေ ဒေါင်းလုတ် မလုပ်နိုင်တော့ပါဘူး။
+ ဆိုလိုတာက အခုအချိန်မှာ Jailbreak မလုပ်ထားတဲ့ iOS ပေါ်ကနေ YouTube ဒေါင်းလုတ်ချဖို့ ဖြစ်နိုင်ချေ မရှိသလောက်ပါပဲ။ ဒါပေမယ့် iOS ပေါ်ကနေ YouTube ဗီဒီယိုတွေကို တိုက်ရိုက်ဒေါင်းလုတ်ချပြီး အချိန်မရွေး Offline ပြန်လည်ကြည့်ရှုနိုင်တဲ့ ကွက်ပျောက် နည်းလမ်းလေးကို ဝေမျှပေးလိုက်ပါတယ်။</description>
+    </item>
+    
     <item>
       <title>iPhone Contacts Transfer to Android</title>
       <link>https://nayzaraung.github.io/posts/contacts_transfer/</link>
