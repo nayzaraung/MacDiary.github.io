@@ -9,20 +9,20 @@
     <lastBuildDate>Sat, 17 Mar 2018 14:44:28 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Add Myanmar Holiday Calendar</title>
-      <link>https://nayzaraung.github.io/posts/googlecalendar/</link>
+      <link>https://nayzaraung.github.io/posts/google-calendar/</link>
       <pubDate>Sat, 17 Mar 2018 14:44:28 +0630</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/googlecalendar/</guid>
+      <guid>https://nayzaraung.github.io/posts/google-calendar/</guid>
       <description>Mac နဲ့ iOS တို့မှာလိုပဲ Android အသုံးပြုသူများအတွက် Google Calendar မှာ မြန်မာရုံးပိတ်ရက်များ ပါဝင်တဲ့ ပြက္ခဒိန်ထည့်သွင်းနည်းကို ဖော်ပြပေးလိုက်ပါတယ်။ ယခုနည်းလမ်းလေးက ပြက္ခဒိန်ကို Desktop ကနေ URL သုံးပြီး ထည့်လို့မရသူတွေအတွက်လည်း အဆင်ပြေသွားမှာဖြစ်ပါတယ်။ Android အသုံးပြုသူများအနေနဲ့ ပေးထားသော လင့်ခ်ကို တိုက်ရိုက်နှိပ်ပြီး Download လုပ်ပြီး သွင်းယူနိုင်ပါတယ်။ iOS သမားတွေအတွက်ကတော့ URL လင့်ခ်ကို တိုက်ရိုက်နှိပ်ပြီး လွယ်လွယ်ကူကူ သွင်းနိုင်ပါတယ်။ Desktop ပေါ်မှလုပ်ဆောင်ခြင်း ၁။ ကွန်ပျူတာ Desktop ပေါ်မှ နှစ်သက်ရာ Browser တစ်ခုခုကို ဖွင့်ပြီး Google Calendar ကိုသွားပြီး မိမိရဲ့ Gmail ဖြင့် Sign In လုပ်ပါ။ ဤနေရာကို နှိပ်ပြီး သွားနိုင်ပါတယ်။
 ၂။ ပုံတွင်ပြထားသည့်အတိုင်း Add friend&amp;rsquo;s calendar ဘေးနေရာမှ &amp;ldquo;+&amp;rdquo; ကိုနှိပ်ပြီး From URL ကို ရွေးပါ။ ၃။ အောက်တွင် ဖော်ပြထားသော URL ကို Copy ကူးယူပြီး URL of calendar နေရာတွင် Paste လုပ်ပြီး Add Calendar ကို နှိပ်ပါ။ ၂၀၁၈-၂၀၁၉ ခုနှစ် ပြက္ခဒိန် URL https://goo.</description>
     </item>
     
     <item>
       <title>How to download Youtube Videos on iOS</title>
-      <link>https://nayzaraung.github.io/posts/dlyoutube/</link>
+      <link>https://nayzaraung.github.io/posts/download-youtube/</link>
       <pubDate>Mon, 28 Aug 2017 20:41:15 +0630</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/dlyoutube/</guid>
+      <guid>https://nayzaraung.github.io/posts/download-youtube/</guid>
       <description>ယခင်က YouTube Video နဲ့ အွန်လိုင်းဝဘ်ဆိုက်ပေါ်က ဗီဒီယိုတွေကို အလွယ်တစ်ကူ ဒေါင်းလုတ်ချနိုင်တဲ့ Application တွေ ရှိခဲ့ဖူးပါတယ်။ ကိုယ်ဒေါင်းလုတ် လုပ်ချင်တဲ့ ဗီဒီယိုပေါ်မှာ လက်နဲ့ ကြာကြာ ဖိထားလိုက်တာနဲ့ ဒေါင်းလုပ်ချနိုင်ခဲ့ပါတယ်။
  ယနေ့အချိန်မှာတော့ Apple က မူပိုင်ခွင့်နဲ့ ပက်သက်ပြီး ပေါ်လစီတင်းကျပ်ခဲ့ပြီး Video, Audio ဒေါင်းလုတ်ချနိုင်တဲ့ App တွေကို ဖယ်ရှားခဲ့သလို Developer တွေကိုလည်း သတိပေးခဲ့ပါတယ်။ ဒါကြောင့်မို့ ယခင်က ဒေါင်းလုပ်ချနိုင်တဲ့ App တွေကို AppStore မှာ ရှာတွေ့ပေမယ့် အသုံးပြုသူရဲ့ Cloud storage (DropBox, GoogleDrive..) စသည်ဖြင့်တွေပေါ်ကနေသာ ဒေါင်းလုတ်ပြုလုပ်နိုင်ပြီး YouTube ပေါ်ကနေ ဒေါင်းလုတ် မလုပ်နိုင်တော့ပါဘူး။
  ဆိုလိုတာက အခုအချိန်မှာ Jailbreak မလုပ်ထားတဲ့ iOS ပေါ်ကနေ YouTube ဒေါင်းလုတ်ချဖို့ ဖြစ်နိုင်ချေ မရှိသလောက်ပါပဲ။ ဒါပေမယ့် iOS ပေါ်ကနေ YouTube ဗီဒီယိုတွေကို တိုက်ရိုက်ဒေါင်းလုတ်ချပြီး အချိန်မရွေး Offline ပြန်လည်ကြည့်ရှုနိုင်တဲ့ ကွက်ပျောက် နည်းလမ်းလေးကို ဝေမျှပေးလိုက်ပါတယ်။</description>
@@ -30,12 +30,22 @@
     
     <item>
       <title>iPhone Contacts Transfer to Android</title>
-      <link>https://nayzaraung.github.io/posts/contacts_transfer/</link>
+      <link>https://nayzaraung.github.io/posts/contacts-transfer/</link>
       <pubDate>Sat, 16 Jul 2016 20:55:31 +0630</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/contacts_transfer/</guid>
+      <guid>https://nayzaraung.github.io/posts/contacts-transfer/</guid>
       <description>iOS နှင့် Android အကြား Phone Contacts list တွေကို အကြောင်းအမျိုးမျိုးအတွက် ရွေ့ပြောင်းထည့်သွင်းဖို့ လိုလာတတ်ပါတယ်။ Android ကနေ iOS ကို Contacts တွေ ပြောင်းရွေ့ဖို့အတွက် “Move to iOS” application ကို Apple က Android apk အဖြစ် Google PlayStore မှာ ဖန်တီးပေးထားတာကြောင့် mobile ပေါ်မှအလွယ်တစ်ကူ ပြောင်းရွေ့နိုင်ပါတယ်။
  သို့သော် iPhone ထဲက Contacts တွေကို အခြား Android ဖုန်းတစ်လုံးထဲသို့ ရွေ့ပြောင်းဖို့ ဆိုရင်တော့ Computer တစ်လုံးကနေ လုပ်ဆောင်မှသာ ချောမွေ့ပြေပြစ်နိုင်ပါလိမ့်မယ်။ (မှတ်ချက်။ ။ Mobile Safari Browser မှာ Desktop Site အနေနဲ့ ကြိုးစားနိုင်သော်လည်း အခြား application အကူညီများရယူပြီးမှ ခက်ရခက်ဆစ် လုပ်ဆောင်ရပါလိမ့်မယ်၊ ဒါကြောင့်မို့ Computer မှသာ လုပ်ဆောင်ဖို့ တိုက်တွန်းပါရစေ)</description>
+    </item>
+    
+    <item>
+      <title>How to set Notes password on iOS &amp; Mac </title>
+      <link>https://nayzaraung.github.io/posts/lock-notes/</link>
+      <pubDate>Fri, 25 Mar 2016 23:52:08 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/lock-notes/</guid>
+      <description>Apple iOS 9.3 ရဲ့ လုပ်ဆောင်ချက် အသစ်တွေထဲက နှစ်သက်မိတာလေး တစ်ခုကတော့ Notes တွေကို Lock ချပြီးသိမ်းထားနိုင်တာပဲ ဖြစ်ပါတယ်။ မိမိအတွက် အရေးကြီးတဲ့ နေ့စဉ်မှတ်တမ်းတွေ၊ မှတ်စု အစရှိတာတွေကို အခြားသူများ အလွယ်တစ်ကူ မမြင်တွေ့နိုင်အောင် password ချကာ ကာကွယ်ပေးထားနိုင်တဲ့ အတွက် လုံခြုံမှုရှိစေပါတယ်။
+အဆိုပါ လုပ်ဆောင်ချက်အသစ်ကို iOS 9.3 နှင့်အတူ Mac OS X 10.11.4 မှာလည်း တစ်ပြိုင်တည်း ရရှိ အသုံးပြုနိုင်ပါပြီ&amp;hellip;။ ချွင်းချက်အနေနဲ့ကတော့ iCloud account တွင် ရေးသားထားသော Notes များကိုသာ Lock ချပေးနိုင်ပြီး၊ အခြား email account များတွင် သိမ်းထားသော Notes များကိုတော့ Lock လုပ်နိုင်မည် မဟုတ်ပါ။ ထို့ကြောင့် အခြား mail account များတွင် မှတ်သားထားသော အရေးကြီး Notes များကို Lock ချလိုပါက iCloud ထဲသို့ ပြောင်းရွေ့ပြီးမှ Lock လုပ်နိုင်ပါလိမ့်မယ်။</description>
     </item>
     
   </channel>
