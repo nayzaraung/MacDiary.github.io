@@ -166,6 +166,19 @@ Apple က OS X Yosemite နှင့်နောက်ပိုင်း OS X �
     </item>
     
     <item>
+      <title>Useful Tips &amp; Tricks For OS X</title>
+      <link>https://nayzaraung.github.io/posts/osx-useful-tips-tricks/</link>
+      <pubDate>Thu, 17 Dec 2015 12:43:39 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/osx-useful-tips-tricks/</guid>
+      <description>Mac OS X ကို စတင်အသုံးပြုသူများအတွက် အသုံးဝင်မည့် လုပ်ဆောင်ချက် အသေးစားလေးများကို စုစည်းဖော်ပြထားပါတယ်။
+1. Default Application ပြောင်းလဲခြင်း
+မိမိစက်ထဲရှိ ဖိုင်များကို နှစ်သက်ရာ သင့်တော်သည့် Application နှင့် ပြောင်းလဲ ဖွင့်လှစ်ရန်ဖြစ်ပါတယ်။ ဥပမာအားဖြင့် မီဒီယာဖိုင်များ ဖြစ်ကြသော movies, musics များကို မိမိနှစ်သက်ရာ player နှင့် ပြောင်းလဲဖွင့်လှစ်နိုင်ပါတယ်၊ movie format တစ်ခုဖြစ်သည့် (.mp4) file များကို double click နှင့် ဖွင့်လိုက်ပါက Default အနေနှင့် Mac ၏ Quicktime Player နှင့်သာ ပြသကြည့်ရှုနိုင်ပါလိမ့်မည်။
+ထိုကဲ့သော အခြေနေမျိုးတွင် movies file များကို မိမိနှစ်သက်သော &amp;ldquo;VLC Player&amp;rdquo; နှင့် ပြောင်းလဲ ဖွင့်လှစ်မည် ဆိုပါက (VLC Application သွင်းထားပြီးဖြစ်ရပါမည်) -
+movie file ကို Right click (သို့) Touch pad တွင် လက်နှစ်ချောင်း ခေါက်ပြီး &amp;ldquo;Get Info&amp;rdquo; ကို ရေွးချယ်ပါ။</description>
+    </item>
+    
+    <item>
       <title>Take Screenshot on Mac</title>
       <link>https://nayzaraung.github.io/posts/how-to-take-screenshots-on-mac/</link>
       <pubDate>Mon, 07 Dec 2015 14:45:52 +0800</pubDate>
