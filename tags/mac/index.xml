@@ -35,6 +35,18 @@ Desktop ပေါ်မှလုပ်ဆောင်ခြင်း
     </item>
     
     <item>
+      <title>Save Hotspot Data on Mac</title>
+      <link>https://nayzaraung.github.io/posts/save-hotspot-data-on-mac/</link>
+      <pubDate>Fri, 19 Aug 2016 16:22:47 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/save-hotspot-data-on-mac/</guid>
+      <description>iPhone, iPad တွေကနေ Personal Hotspot လွှင့်ပြီး Mac ကွန်ပျူတာကနေ WiFi (သို့) USB နဲ့ ချိပ်ဆက်ပြီး အင်တာနက်သုံးစွဲတဲ့အခါ Mobile Data တွေက အတော့်ကို သိသိသာသာကြီး အမြန်ကုန်သွားတတ်ပါတယ်။ အဲသည်လို Hotspot လွှင့်ပြီး tethering လုပ်တဲ့အခါ Mobile Data တွေ ကိုယ်သုံးစွဲတာထက် အပိုမကုန်အောင် ထိန်းချုပ်နိုင်မယ့် လုပ်ဆောင်စရာလေးတွေ ရှိနေပါတယ်။
+ဖော်ပြပါလုပ်ဆောင်ချက်များကို Hotspot connection နဲ့ မချိပ်ဆက်မီ Mac မှာ ကြိုတင်ပြင်ဆင်ထားမယ် ဆိုပါက အခုချိန်ကစတင်ပြီး Mobile Data ကို ချွေတာနိုင်ပါပြီ။
+၁) Notifications ပို့တတ်သော Applications များကို ပိတ်ပါ
+OS X ရဲ့ Mail App က internet connection ချိပ်ဆက်မိသည်နှင့် တစ်ပြိုင်နက် နောက်ကွယ်မှ အလုပ်လုပ်နေတတ်သည့်အတွက် အသုံးမပြုပါက ပိတ်ထားပါ။ အလားတူပင် Notifications များပေးပို့တတ်သော Menubar Apps များကိုလည်း iOS hotspot နှင့် မချိပ်ဆက်မီ ပိတ်ထားရန် လိုအပ်ပါသည်။</description>
+    </item>
+    
+    <item>
       <title>How to set Notes password on iOS &amp; Mac </title>
       <link>https://nayzaraung.github.io/posts/lock-notes/</link>
       <pubDate>Fri, 25 Mar 2016 23:52:08 +0800</pubDate>

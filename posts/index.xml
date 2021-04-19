@@ -35,7 +35,7 @@ Desktop ပေါ်မှလုပ်ဆောင်ခြင်း
     </item>
     
     <item>
-      <title>iOS 11 Fix Battery Life Problem</title>
+      <title>iOS Fix Battery Life Problem</title>
       <link>https://nayzaraung.github.io/posts/fixed-battery-life-ios/</link>
       <pubDate>Sat, 28 Oct 2017 19:22:18 +0630</pubDate>
       
@@ -56,6 +56,18 @@ Apple ဟာ Device အမြင့်များထုတ်လာသလို
       <description>ယခင်က YouTube Video နဲ့ အွန်လိုင်းဝဘ်ဆိုက်ပေါ်က ဗီဒီယိုတွေကို အလွယ်တစ်ကူ ဒေါင်းလုတ်ချနိုင်တဲ့ Application တွေ ရှိခဲ့ဖူးပါတယ်။ ကိုယ်ဒေါင်းလုတ် လုပ်ချင်တဲ့ ဗီဒီယိုပေါ်မှာ လက်နဲ့ ကြာကြာ ဖိထားလိုက်တာနဲ့ ဒေါင်းလုပ်ချနိုင်ခဲ့ပါတယ်။
  ယနေ့အချိန်မှာတော့ Apple က မူပိုင်ခွင့်နဲ့ ပက်သက်ပြီး ပေါ်လစီတင်းကျပ်ခဲ့ပြီး Video, Audio ဒေါင်းလုတ်ချနိုင်တဲ့ App တွေကို ဖယ်ရှားခဲ့သလို Developer တွေကိုလည်း သတိပေးခဲ့ပါတယ်။ ဒါကြောင့်မို့ ယခင်က ဒေါင်းလုပ်ချနိုင်တဲ့ App တွေကို AppStore မှာ ရှာတွေ့ပေမယ့် အသုံးပြုသူရဲ့ Cloud storage (DropBox, GoogleDrive..) စသည်ဖြင့်တွေပေါ်ကနေသာ ဒေါင်းလုတ်ပြုလုပ်နိုင်ပြီး YouTube ပေါ်ကနေ ဒေါင်းလုတ် မလုပ်နိုင်တော့ပါဘူး။
  ဆိုလိုတာက အခုအချိန်မှာ Jailbreak မလုပ်ထားတဲ့ iOS ပေါ်ကနေ YouTube ဒေါင်းလုတ်ချဖို့ ဖြစ်နိုင်ချေ မရှိသလောက်ပါပဲ။ ဒါပေမယ့် iOS ပေါ်ကနေ YouTube ဗီဒီယိုတွေကို တိုက်ရိုက်ဒေါင်းလုတ်ချပြီး အချိန်မရွေး Offline ပြန်လည်ကြည့်ရှုနိုင်တဲ့ ကွက်ပျောက် နည်းလမ်းလေးကို ဝေမျှပေးလိုက်ပါတယ်။</description>
+    </item>
+    
+    <item>
+      <title>Save Hotspot Data on Mac</title>
+      <link>https://nayzaraung.github.io/posts/save-hotspot-data-on-mac/</link>
+      <pubDate>Fri, 19 Aug 2016 16:22:47 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/save-hotspot-data-on-mac/</guid>
+      <description>iPhone, iPad တွေကနေ Personal Hotspot လွှင့်ပြီး Mac ကွန်ပျူတာကနေ WiFi (သို့) USB နဲ့ ချိပ်ဆက်ပြီး အင်တာနက်သုံးစွဲတဲ့အခါ Mobile Data တွေက အတော့်ကို သိသိသာသာကြီး အမြန်ကုန်သွားတတ်ပါတယ်။ အဲသည်လို Hotspot လွှင့်ပြီး tethering လုပ်တဲ့အခါ Mobile Data တွေ ကိုယ်သုံးစွဲတာထက် အပိုမကုန်အောင် ထိန်းချုပ်နိုင်မယ့် လုပ်ဆောင်စရာလေးတွေ ရှိနေပါတယ်။
+ဖော်ပြပါလုပ်ဆောင်ချက်များကို Hotspot connection နဲ့ မချိပ်ဆက်မီ Mac မှာ ကြိုတင်ပြင်ဆင်ထားမယ် ဆိုပါက အခုချိန်ကစတင်ပြီး Mobile Data ကို ချွေတာနိုင်ပါပြီ။
+၁) Notifications ပို့တတ်သော Applications များကို ပိတ်ပါ
+OS X ရဲ့ Mail App က internet connection ချိပ်ဆက်မိသည်နှင့် တစ်ပြိုင်နက် နောက်ကွယ်မှ အလုပ်လုပ်နေတတ်သည့်အတွက် အသုံးမပြုပါက ပိတ်ထားပါ။ အလားတူပင် Notifications များပေးပို့တတ်သော Menubar Apps များကိုလည်း iOS hotspot နှင့် မချိပ်ဆက်မီ ပိတ်ထားရန် လိုအပ်ပါသည်။</description>
     </item>
     
     <item>
