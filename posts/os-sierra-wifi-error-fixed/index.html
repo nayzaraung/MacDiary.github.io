@@ -1,0 +1,145 @@
+	
+	<!doctype html>
+<html lang="en">
+  <head>
+    <title>NayZarAung - OS Sierra Wifi Error Fixed</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+    
+    <link href="/css/milk.min.css" rel="stylesheet">
+    <link href="/css/milk-responsive.min.css" rel="stylesheet">     
+    <link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/css/fonts.css" rel="stylesheet" type="text/css" media="all">
+    <script src="https://use.fontawesome.com/52ab3615c7.js"></script>
+    <link rel="shortcut icon" href="/images/myicon.ico"  type="image/x-icon">
+    <link rel="apple-touch-icon" href="">
+    <link rel="canonical" href="https://nayzaraung.github.io/posts/os-sierra-wifi-error-fixed/">
+
+    
+    <link href="/rss.xml" type="application/atom+xml" rel="alternate" title="My Diary">
+
+  </head>
+  <body>
+    <div class="navbar navbar-fixed-top">
+  <div id="navbar-inner">
+    <div id="logo">
+       <a href="https://nayzaraung.github.io/"><img src="/images/nyphoto.PNG" width="100px"></img></a>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="content">
+    <div class="row-fluid">
+      <div class="span12">
+        <div class="posts">
+
+
+	    
+	  <div class="post">
+	    <header class="post-header">
+	        <h1><a href="/posts/os-sierra-wifi-error-fixed/">OS Sierra Wifi Error Fixed</a></h1>
+	        <div class="post-time">March 11 2017</div>
+	    </header>
+	    <div class="post-after">
+	        <div class="tags">
+	            
+	                <a href="https://nayzaraung.github.io//tags/how-to">how to</a>
+	            
+	                <a href="https://nayzaraung.github.io//tags/mac">mac</a>
+	            
+	                <a href="https://nayzaraung.github.io//tags/error">error</a>
+	            
+	        </div>
+	    </div>
+	    <hr>
+	    <div class="post content">
+	        <p>        Mac OS Sierra 10.x.x. တင်ပြီးတဲ့နောက်မှာ ကိုယ်တိုင်ကြုံတွေ့ခဲ့ရတာတစ်ခုကတော့ Personal Hotspot ပြဿနာပါပဲ။ iPhone ကနေ Personal Hotspot ကို WiFi အနေနဲ့ ထုတ်လွှတ်တဲ့အခါ Mac မှာ connected ဆိုတဲ့ icon လေးပြနေပေမယ့် internet connection လုံးဝ ချိပ်ဆက်မှုမရှိခဲ့ပါဘူး။</p>
+<p>iPhone hotspot ကြောင့်လားဆိုတော့လည်း မဟုတ်ပဲ iPhone ကနေ လွှတ်ထားတဲ့ WiFi ကိုအခြား ကွန်ပျူတာတွေ၊ ဖုန်းတွေ၊ တီဗီတွေကနေ ချိပ်ရင် အင်တာနက်က သုံးလို့ရပါတယ်။ Mac တစ်ခုထဲနဲ့သာ ချိပ်နေပါရက်နဲ့ အင်တာနက်မရခြင်းဖြစ်ပါတယ်။</p>
+<p>အဲဒီလိုဖြစ် ပြဿနာဖြစ်နေသူများအတွက် လုံးဝပြေလည်အောင် ဖြေရှင်းနိုင်မယ့် နည်းလမ်းလေးကို ဖော်ပြလိုက်ပါတယ်။</p>
+<h4><font color="brown"><b>Mac ထဲမှာ WiFi နှင့် ပက်သက်သမျှ အရာများကို ဖျက်ပစ်ခြင်း</b></font></h4>
+<p>        ယခုနည်းလမ်းက System ထဲက ဖိုင်တွေကို ဖျက်ပစ်မှာဖြစ်လို့ အနည်းငယ် သတိထားလုပ်ကိုင်ရန် လိုအပ်ပါတယ်။ ဖျက်ပစ်ရမည့် ဖိုင်များကို မူရင်းနေရာကနေ အပြီးတိုင် မဖျက်ပစ်မီ Desktop တွင် Backup folder တစ်ခုဆောက်၍ copy ယူသိမ်းထားပါ။</p>
+<p><b>၁)</b> WiFi နှင့် ချိပ်ဆက်အလုပ်လုပ်သည့် application များ ဦးစွာပိတ်ပါ (Safari, Chrome, စသည်ဖြင့်)</p>
+<p><b>၂)</b> Menu Bar ရှိ WiFi icon မှ တစ်ဆင့် WiFi ကို Turn Wi-Fi Off လုပ်ပါ။</p>
+<p><b>၃)</b> Finder ကိုဖွင်၍ Menu bar ရှိ &ldquo;Go&rdquo; ကို နှိပ်ပြီး box တစ်ခုကျလာပါက အောက်ပါ လမ်းကြောင်းအတိုင်းသွားပါ။</p>
+<pre><code>/Library/Preferences/SystemConfiguration/</code></pre>
+<p><b>၄)</b> SystemConfiguration folder ရောက်သွားသည်နှင့် အောက်ပါဖိုင် (၅)ခုကို ရွေးချယ်ရှာယူပါ။</p>
+<pre>com.apple.airport.preferences.plist
+com.apple.network.eapolclient.configuration.plist
+com.apple.wifi.message-tracer.plist
+NetworkInterface.plist
+Preferences.plist</pre>
+ <p align="center"><img src="https://raw.githubusercontent.com/nayzaraung/blog/main/Photos/systemconfig.png" align="middle" alt="system config" /></p>
+<p><b>၅)</b> ထိုဖိုင် (၅)ခုကို မဖျက်ပစ်မီ Copy ကူးယူကာ Desktop တွင် Backup folder တစ်ခုဆောက်ပြီး သိမ်းပါ။</p>
+<p><b>၆)</b> SystemConfiguration folder ထဲမှ ဖော်ပြပါဖိုင် (၅)ခုလုံးကို Delete/Remove လုပ်ပါ။
+passcode တောင်းခံလာပါက Log In passcode ရိုက်ထည့်ပါ။</p>
+<p align="center"><img src="https://raw.githubusercontent.com/nayzaraung/blog/main/Photos/permission.png" alt="permission" /></p>
+<p><b>၇)</b> Apple menu မှ တစ်ဆင့် &ldquo;Restart&rdquo; လုပ်ပါ။</p>
+<p><b>၈)</b> စက်ပြန်တက်လာပါက iPhone မှ Personal Hotspot ကို WiFi လွှင့်ပြီး Mac WiFi မှ ချိပ်ဆက်ကြည့်ပါ Internet connection ပြန်ရသွားသည်ကို တွေ့ရပါမည်။</p>
+
+	    </div>
+	    
+	    
+	    <div class="fblike">
+	    		<div class="fb-like" data-href="/posts/ansible-delegation/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+	    </div><br>
+	    
+	<div class="about">
+	<p> 
+     
+    </p>
+</div>
+		<nav id="pagination">
+			<a class="prev" href="https://nayzaraung.github.io/posts/download-youtube/">Prev</a>
+			<a class="next" href="https://nayzaraung.github.io/posts/save-hotspot-data-on-mac/">Next</a>
+		</nav>
+		<p>
+	<div class="row">
+      <div class="small-offset-1 small-10 columns">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">                        
+        var disqus_shortname = 'nayzaraung'; 
+        var disqus_developer = 1;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+        </script>
+
+        <script type="text/javascript" src="http://disqus.com/forums/antzucaro/embed.js"></script>
+        <noscript><a href="http://antzucaro.disqus.com/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+    
+	<p>
+	
+		        <footer>
+		        	<a href="https://www.facebook.com/Konayzar" target="self">Facebook</a> 
+		        	<p> Nay Zar Aung 2015</p>
+		        </footer>
+		    </div>
+		  </div>
+		</div>
+      </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + ":change-me";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 4]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+
+</html>
+

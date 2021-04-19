@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>error on My Diary</title>
+    <link>https://nayzaraung.github.io/tags/error/</link>
+    <description>Recent content in error on My Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Mar 2017 20:02:45 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/error/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OS Sierra Wifi Error Fixed</title>
+      <link>https://nayzaraung.github.io/posts/os-sierra-wifi-error-fixed/</link>
+      <pubDate>Sat, 11 Mar 2017 20:02:45 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/os-sierra-wifi-error-fixed/</guid>
+      <description>Mac OS Sierra 10.x.x. တင်ပြီးတဲ့နောက်မှာ ကိုယ်တိုင်ကြုံတွေ့ခဲ့ရတာတစ်ခုကတော့ Personal Hotspot ပြဿနာပါပဲ။ iPhone ကနေ Personal Hotspot ကို WiFi အနေနဲ့ ထုတ်လွှတ်တဲ့အခါ Mac မှာ connected ဆိုတဲ့ icon လေးပြနေပေမယ့် internet connection လုံးဝ ချိပ်ဆက်မှုမရှိခဲ့ပါဘူး။
+iPhone hotspot ကြောင့်လားဆိုတော့လည်း မဟုတ်ပဲ iPhone ကနေ လွှတ်ထားတဲ့ WiFi ကိုအခြား ကွန်ပျူတာတွေ၊ ဖုန်းတွေ၊ တီဗီတွေကနေ ချိပ်ရင် အင်တာနက်က သုံးလို့ရပါတယ်။ Mac တစ်ခုထဲနဲ့သာ ချိပ်နေပါရက်နဲ့ အင်တာနက်မရခြင်းဖြစ်ပါတယ်။
+အဲဒီလိုဖြစ် ပြဿနာဖြစ်နေသူများအတွက် လုံးဝပြေလည်အောင် ဖြေရှင်းနိုင်မယ့် နည်းလမ်းလေးကို ဖော်ပြလိုက်ပါတယ်။
+Mac ထဲမှာ WiFi နှင့် ပက်သက်သမျှ အရာများကို ဖျက်ပစ်ခြင်း  ယခုနည်းလမ်းက System ထဲက ဖိုင်တွေကို ဖျက်ပစ်မှာဖြစ်လို့ အနည်းငယ် သတိထားလုပ်ကိုင်ရန် လိုအပ်ပါတယ်။ ဖျက်ပစ်ရမည့် ဖိုင်များကို မူရင်းနေရာကနေ အပြီးတိုင် မဖျက်ပစ်မီ Desktop တွင် Backup folder တစ်ခုဆောက်၍ copy ယူသိမ်းထားပါ။</description>
+    </item>
+    
+  </channel>
+</rss>
