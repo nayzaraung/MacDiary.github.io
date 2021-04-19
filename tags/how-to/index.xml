@@ -115,6 +115,19 @@ Application ကို အစမ်းသုံးကြည့်နိုင်�
     </item>
     
     <item>
+      <title>Install Myanmar Unicode On Mac</title>
+      <link>https://nayzaraung.github.io/posts/install-myanmar-unicode-on-mac/</link>
+      <pubDate>Fri, 04 Dec 2015 13:25:57 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/install-myanmar-unicode-on-mac/</guid>
+      <description>အနာဂါတ်တွင် မြန်မာစာစနစ်ကို ဦးဆောင်လာမည့် နိုင်ငံတစ်ကာ အသိမှတ်ပြု မြန်မာစာစနစ် တစ်ခုဖြစ်သော မြန်မာယူနီကုဒ်ဖောင့်ကို Mac OS X တွင် လွယ်ကူစွာ သွင်းယူနည်းဖြစ်ပါသည်။
+Keyboard, Unicode Fonts နှင့် Safari တွင် ယူနီကုဒ်နှင့် ဇော်ဂျီ နှစ်မျိုးလုံးကိုပါ ဖတ်ရှုနိုင်မည့် Safari Extension နှင့်တစ်ကွ Offline Converter တို့ကိုပါ စုံစုံလင်လင် ထည့်သွင်းပေးထားပြီး မည်သို့ မည်ပုံ အသုံးချရမည်ကို အလွယ်ကူဆုံးဖြစ်အောင် ဖော်ပြပေးထားပါတယ်&amp;hellip;
+အကယ်၍ Mac OS X တွင် ဇော်ဂျီဖောင့် သွင်းယူထားမိပြီးသူ ဖြစ်ပါက ယူနီကုဒ်သို့ ကူးပြောင်းရန် အဆင့်(၁) မှ စတင်၍ လုပ်ဆောင်ပါ။
+မည်သည့် မြန်မာဖောင့်မှ သွင်းယူထားခြင်းမရှိသေးသော Mac OS X အတွက်တော့ &amp;ldquo;ယူနီကုဒ်ဖောင့် သွင်းယူခြင်း&amp;rdquo; အဆင့်မှ စတင်ကာ လိုက်ပါဆောင်ရွက်နိုင်ပါသည်။
+လိုအပ်သော Myanmar Unicode Bundle for Mac zip file ကို Download အရင်ရယူပြီး Desktop တွင် zip ဖြည်ပေးထားပါ။</description>
+    </item>
+    
+    <item>
       <title>Change Log In Background Image on Mac OS X</title>
       <link>https://nayzaraung.github.io/posts/change-log-in-background/</link>
       <pubDate>Tue, 01 Dec 2015 21:12:55 +0800</pubDate>
