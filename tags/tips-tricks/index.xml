@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tips &amp; tricks on My Diary</title>
+    <link>https://nayzaraung.github.io/tags/tips-tricks/</link>
+    <description>Recent content in tips &amp; tricks on My Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Oct 2017 19:22:18 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/tips-tricks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iOS 11 Fix Battery Life Problem</title>
+      <link>https://nayzaraung.github.io/posts/fixed-battery-life-ios/</link>
+      <pubDate>Sat, 28 Oct 2017 19:22:18 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/fixed-battery-life-ios/</guid>
+      <description>iPhone, iPad, iPodTouch တို့မှာ iOS 11 ကိုတင်လိုက်ပြီးနောက် အသုံးပြုရာတွင် ယခင်ထက် နှေးသလိုခံစားနေရသူများ၊ ဘက်ထရီအစားမြန်နေခြင်းစတဲ့ ပြသနာများနဲ့ ရင်ဆိုင်နေရသူများအတွက် ဖြေရှင်းနည်းအချို့ကို ဖော်ပြလိုက်ပါတယ်။
+Apple ဟာ Device အမြင့်များထုတ်လာသလို အဲဒီအတွက် အဆင်ပြေမယ့် iOS update များကိုလည်း အဆက်မပြတ်ထုတ်ပေးနေပါတယ်။ iOS အသစ်များဟာ နောက်ဆုံးပေါ် Device များအတွက် အဓိကရည်ရွယ်ထားတဲ့အတွက် Model အဟောင်း Device များအနေနဲ့ Update လုပ်လို့ရသည့်တိုင် အသုံးပြုရတာ နှေးကွေးသွားခြင်း၊ ဘတ်ထရီအစားမြန်လာခြင်းတို့နဲ့ ကြုံတွေ့ရတတ်ပါတယ်။
+အကယ်၍ သင်ဟာ iOS 11 ကို Update လုပ်မိပြီးမှ ဘက်ထရီစားနှုန်း သိသိသာသာ မြန်လာတယ်ဆိုရင်တော့ ဖော်ပြပါအချက်လေးတွေက အထောက်အကူပြုနိုင်လိမ့်မည်ဟု ​မျှော်လင့်ပါတယ်။
+၁။ Bug Fix iOS Update ပေးလာရင် တင်ပါ
+ iOS အသစ်တိုင်းမှာ ပြဿနာအကြီးအသေးဆိုတာ အမြဲရှိပါတယ်၊ ဒါကြောင့် ပြဿနာတွေကို ဖြေရှင်းပေးထားတဲ့ iOS Update ပေးလာရင် Update လုပ်ပေးပါ။ ဘက်ထရီနဲ့ နှေးကွေးမှုပြဿနာကို ဖြေရှင်းကောင်း ဖြေရှင်းပြီး ဖြစ်ပါလိမ့်မယ်။</description>
+    </item>
+    
+    <item>
+      <title>Mac Keyboard Shortcuts</title>
+      <link>https://nayzaraung.github.io/posts/mac-kb-shortcuts/</link>
+      <pubDate>Thu, 31 Dec 2015 22:10:39 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/mac-kb-shortcuts/</guid>
+      <description>Windows ကနေ Mac ကွန်ပျူတာကို ပြောင်းသုံးကာစ လူသစ်များအတွက် ကိုင်ကာစမှာ အတော်ကသိကအောက်ဖြစ်ရတာလေးတွေ ရှိပါတယ်၊ အဲသည်အထဲမှာ Mac နဲ့ Windows ရဲ့ Keyboard layout မတူတာလဲ တစ်ခု အပါအဝင် ဖြစ်ပါတယ်။ Windows Keyboard မှာပါတဲ့ ကီးအချို့ Mac keyboard မှာ မပါရှိပါဘူး (ဥပမာ Home, PgUp, PgDn) လို ကီးမျိုးလေးတွေပေါ့။
+ဒီလိုမျိုး Windows တုန်းက သုံးနေကြကီးလေးတွေရဲ့ လုပ်ဆောင်ချက်အတိုင်း Mac မှာ အသုံးပြုနိုင်တဲ့ Shortcuts လေးတွေကတော့&amp;hellip;
+&amp;ldquo;Home&amp;rdquo; နှင့် &amp;ldquo;End&amp;rdquo; Keys
+ Windows မှာတုန်းက website ဖြစ်စေ တစ်ခုခုကို ဖတ်ရှုနေစဥ် စာမျက်မှာ ထိပ်ဆုံးနေရာသို့ တန်းပြီး ​ရောက်စေရန် &amp;ldquo;Home&amp;rdquo; key ကို နှိပ်ပါတယ်။ အောက်ဆုံးနေရာကို ရောက်ဖို့တော့ &amp;ldquo;End&amp;rdquo; key ကို နှိပ်ရပါတယ်။</description>
+    </item>
+    
+    <item>
+      <title>Change Log In Background Image on Mac OS X</title>
+      <link>https://nayzaraung.github.io/posts/change-log-in-background/</link>
+      <pubDate>Tue, 01 Dec 2015 21:12:55 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/change-log-in-background/</guid>
+      <description>Mac ၏ Log In screen တွင် မိမိစိတ်ကြိုက် နောက်ခံပုံများကို ပြောင်းလဲနိုင်ပါတယ်..။
+၁) ပထမဦးစွာ မိမိပြောင်းလဲလိုသော Image, Photo တစ်ခုခုကို Photoshop ကဲ့သို့သော Image editor တစ်ခုခုနှင့် aspect Ratio စကေးကိုက်ညီအောင် အရင်ပြုပြင်ပါ။
+အချိုးများမှာ။ ။ 1280 x 800 pixels, 1680 x 1050 pixels, 1920 x 1200 pixels တို့ဖြစ်ပါတယ်။
+၂) ပြုပြင်ပြီး Image file ကို (.png) format နှင့် Desktop (သို့) တစ်နေရာရာတွင် သိမ်းပါ။ File name ကို “com.apple.desktop.admin.png” ဟု ပြောင်းပါ။
+၃) ထို့နောက် “Finder” ကိုဖွင့်ပြီး “command + shift + G” ကို နှိပ်ပြီး &amp;lsquo;/Library/Caches’ လမ်းကြောင်းကို ရှာပေးပါ။</description>
+    </item>
+    
+  </channel>
+</rss>
