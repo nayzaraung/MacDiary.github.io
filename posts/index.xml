@@ -35,6 +35,18 @@ Desktop ပေါ်မှလုပ်ဆောင်ခြင်း
     </item>
     
     <item>
+      <title>iOS 11 Fix Battery Life Problem</title>
+      <link>https://nayzaraung.github.io/posts/fixed-battery-life-ios/</link>
+      <pubDate>Sat, 28 Oct 2017 19:22:18 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/fixed-battery-life-ios/</guid>
+      <description>iPhone, iPad, iPodTouch တို့မှာ iOS 11 ကိုတင်လိုက်ပြီးနောက် အသုံးပြုရာတွင် ယခင်ထက် နှေးသလိုခံစားနေရသူများ၊ ဘက်ထရီအစားမြန်နေခြင်းစတဲ့ ပြသနာများနဲ့ ရင်ဆိုင်နေရသူများအတွက် ဖြေရှင်းနည်းအချို့ကို ဖော်ပြလိုက်ပါတယ်။
+Apple ဟာ Device အမြင့်များထုတ်လာသလို အဲဒီအတွက် အဆင်ပြေမယ့် iOS update များကိုလည်း အဆက်မပြတ်ထုတ်ပေးနေပါတယ်။ iOS အသစ်များဟာ နောက်ဆုံးပေါ် Device များအတွက် အဓိကရည်ရွယ်ထားတဲ့အတွက် Model အဟောင်း Device များအနေနဲ့ Update လုပ်လို့ရသည့်တိုင် အသုံးပြုရတာ နှေးကွေးသွားခြင်း၊ ဘတ်ထရီအစားမြန်လာခြင်းတို့နဲ့ ကြုံတွေ့ရတတ်ပါတယ်။
+အကယ်၍ သင်ဟာ iOS 11 ကို Update လုပ်မိပြီးမှ ဘက်ထရီစားနှုန်း သိသိသာသာ မြန်လာတယ်ဆိုရင်တော့ ဖော်ပြပါအချက်လေးတွေက အထောက်အကူပြုနိုင်လိမ့်မည်ဟု ​မျှော်လင့်ပါတယ်။
+၁။ Bug Fix iOS Update ပေးလာရင် တင်ပါ iOS အသစ်တိုင်းမှာ ပြဿနာအကြီးအသေးဆိုတာ အမြဲရှိပါတယ်၊ ဒါကြောင့် ပြဿနာတွေကို ဖြေရှင်းပေးထားတဲ့ iOS Update ပေးလာရင် Update လုပ်ပေးပါ။ ဘက်ထရီနဲ့ နှေးကွေးမှုပြဿနာကို ဖြေရှင်းကောင်း ဖြေရှင်းပြီး ဖြစ်ပါလိမ့်မယ်။</description>
+    </item>
+    
+    <item>
       <title>How to download Youtube Videos on iOS</title>
       <link>https://nayzaraung.github.io/posts/download-youtube/</link>
       <pubDate>Mon, 28 Aug 2017 20:41:15 +0630</pubDate>
