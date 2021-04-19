@@ -47,6 +47,18 @@ Apple ဟာ Device အမြင့်များထုတ်လာသလို
     </item>
     
     <item>
+      <title>Save Mobile Data Usage on iOS</title>
+      <link>https://nayzaraung.github.io/posts/save-mobile-data-ios/</link>
+      <pubDate>Thu, 18 Aug 2016 13:27:22 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/save-mobile-data-ios/</guid>
+      <description>Internet Data ကို Limit နဲ့ သုံးနေကြရတဲ့အခါ မိမိ iPhone ရဲ့ မည်သည့် Application တွေက Data အများဆုံးသုံးနေလဲဆိုတာ သိဖို့လိုအပ်လာပါတယ်။ ဒီအပြင် ဘယ်လိုလုပ်ဆောင်ချက်တွေက Mobile Data ကို ယိုစိမ့်နေစေသလဲဆိုတာ သိထားဖို့ လိုအပ်ပါတယ်။ ဒီလိုသိမှသာ မိမိအသုံးမပြုတဲ့ Application တွေ Backgroud မှာ အလုပ်မလုပ်အောင် ပိတ်ထားပြီး Mobile Data ကို လိုအပ်သလောက်ပဲ ချွေတာသုံးစွဲနိုင်မှာ ဖြစ်ပါတယ်။
+ယခုဖော်ပြမည့် နည်းလမ်းများကို အသုံးပြု၍ iOS 9 နှင့်အထက် iPhone, iPad တို့မှာ အလွယ်တစ်ကူ ပြုပြင်ပြောင်းလဲပြီး Mobile Data ကို သိသိသာသာ ချိုးခြံချွေတာ နိုင်ပါလိမ့်မယ်။
+၁) iCloud Drive က Use Cellular Data ကို ပိတ်ထားခြင်း
+ iOS မှာ အလွန်အရေးပါ အသုံးဝင်တဲ့ iCloud ဟာ Apple Devices များအကြား အပြန်လှန်ဆက်သွယ်မှု ပြုလုပ်ပေးပါတယ်၊ iCloud Drive ကတော့ မိမိအသုံးပြုနေတဲ့ Application data တွေကို အချိန်နဲ့အမျှ ပြန်သိမ်းပေး သို့သော် အဆိုပါလုပ်ဆောင်ချက်မှာ Mobile Cellular Data ကို အသုံးပြုတဲ့အတွက် Data ချွေတာမှုကို ထိခိုက်စေနိုင်လို့ ပိတ်ထားချင်တယ်ဆိုရင်တော့&amp;hellip;</description>
+    </item>
+    
+    <item>
       <title>iPhone Contacts Transfer to Android</title>
       <link>https://nayzaraung.github.io/posts/contacts-transfer/</link>
       <pubDate>Sat, 16 Jul 2016 20:55:31 +0630</pubDate>
