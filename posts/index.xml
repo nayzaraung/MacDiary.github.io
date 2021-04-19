@@ -212,6 +212,18 @@ Keyboard, Unicode Fonts နှင့် Safari တွင် ယူနီကု�
     </item>
     
     <item>
+      <title>Create OS X El Capitan USB Boot Installer </title>
+      <link>https://nayzaraung.github.io/posts/create-osx-boot-disk/</link>
+      <pubDate>Tue, 01 Dec 2015 20:20:29 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/create-osx-boot-disk/</guid>
+      <description>အချိန်မရွေး OS ကို clean Install လုပ်ချင်လို့ပဲဖြစ်ဖြစ်၊ အခြား Mac တွေမှာ connection မလိုပဲ install လုပ်ပေးနိုင်ဖို့ပဲဖြစ်ဖြစ် OS X El Capitan ကို သွင်းယူနိုင်ဖို့အတွက် ဆိုရင် USB boot drive လေးတစ်ခု ပြုလုပ်ထားပြီး အသင့်ဆောင်ထားနိုင်ပါတယ်။
+OS X El Capitan Installer Drive လေး လုပ်ဖို့ လိုအပ်မှာတွေကတော့..
+8GB နှင့် အထက် storage ပမာဏရှိတဲ့ USB Flash Drive တစ်ခု (El Capitan က 5.8 GB ရှိပါတယ်) OS X El Capitan Application (/Applications/ folder ထဲတွင် ရှိနေပါမယ်၊ မရှိသေးရင် အောက်မှာ ယူပါ) တို့ လိုအပ်ပါတယ်။
+₪ Download OS X El Capitan (Mac App Store)</description>
+    </item>
+    
+    <item>
       <title>Format External or USB Drive for Mac OS X</title>
       <link>https://nayzaraung.github.io/posts/format-disk-on-mac/</link>
       <pubDate>Sun, 29 Nov 2015 11:09:00 +0800</pubDate>

@@ -1,0 +1,152 @@
+	
+	<!doctype html>
+<html lang="en">
+  <head>
+    <title>NayZarAung - Create OS X El Capitan USB Boot Installer </title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+    
+    <link href="/css/milk.min.css" rel="stylesheet">
+    <link href="/css/milk-responsive.min.css" rel="stylesheet">     
+    <link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/css/fonts.css" rel="stylesheet" type="text/css" media="all">
+    <script src="https://use.fontawesome.com/52ab3615c7.js"></script>
+    <link rel="shortcut icon" href="/images/myicon.ico"  type="image/x-icon">
+    <link rel="apple-touch-icon" href="">
+    <link rel="canonical" href="https://nayzaraung.github.io/posts/create-osx-boot-disk/">
+
+    
+    <link href="/rss.xml" type="application/atom+xml" rel="alternate" title="My Diary">
+
+  </head>
+  <body>
+    <div class="navbar navbar-fixed-top">
+  <div id="navbar-inner">
+    <div id="logo">
+       <a href="https://nayzaraung.github.io/"><img src="/images/nyphoto.PNG" width="100px"></img></a>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="content">
+    <div class="row-fluid">
+      <div class="span12">
+        <div class="posts">
+
+
+	    
+	  <div class="post">
+	    <header class="post-header">
+	        <h1><a href="/posts/create-osx-boot-disk/">Create OS X El Capitan USB Boot Installer </a></h1>
+	        <div class="post-time">December 1 2015</div>
+	    </header>
+	    <div class="post-after">
+	        <div class="tags">
+	            
+	                <a href="https://nayzaraung.github.io//tags/how-to">how to</a>
+	            
+	                <a href="https://nayzaraung.github.io//tags/mac">mac</a>
+	            
+	        </div>
+	    </div>
+	    <hr>
+	    <div class="post content">
+	        <p>အချိန်မရွေး OS ကို clean Install လုပ်ချင်လို့ပဲဖြစ်ဖြစ်၊ အခြား Mac တွေမှာ connection မလိုပဲ install လုပ်ပေးနိုင်ဖို့ပဲဖြစ်ဖြစ် OS X El Capitan ကို သွင်းယူနိုင်ဖို့အတွက် ဆိုရင် USB boot drive လေးတစ်ခု ပြုလုပ်ထားပြီး အသင့်ဆောင်ထားနိုင်ပါတယ်။</p>
+<p><b>OS X El Capitan Installer Drive လေး လုပ်ဖို့ လိုအပ်မှာတွေကတော့..</b></p>
+<p>8GB နှင့် အထက် storage ပမာဏရှိတဲ့ USB Flash Drive တစ်ခု (El Capitan က 5.8 GB ရှိပါတယ်)
+OS X El Capitan Application (/Applications/ folder ထဲတွင် ရှိနေပါမယ်၊ မရှိသေးရင် အောက်မှာ ယူပါ) တို့ လိုအပ်ပါတယ်။</p>
+<p align="center"><img src="https://raw.githubusercontent.com/nayzaraung/blog/main/Photos/sandisk.JPG" alt="SanDisk" /></p>
+<p><a href="http://updates-http.cdn-apple.com/2019/cert/061-41424-20191024-218af9ec-cf50-4516-9011-228c78eda3d2/InstallMacOSX.dmg" target="self">₪ Download OS X El Capitan (Mac App Store)</a></p>
+<p>USB Flash Drive (အသစ်/အဟောင်း)ကို Mac ကွန်ပျူတာနဲ့ ကိုက်ညီမယ့် Format ကို Disk Utility အသုံးပြုပြီး Format ချပေးဖို့လိုအပ်ပါတယ်။</p>
+<p><a href="https://nayzaraung.github.io/posts/format-disk-on-mac/" target="self">₪ Mac OS X အတွက် သင့်တော်သည့် Format တစ်ခု ပြုလုပ်နည်း</a></p>
+<p>အထက်ပါအတိုင်း Mac OS X အတွက် သင့်လျှော်မည့် Format နှင့် USB Flash Drive တစ်ခု အသင့် ဖြစ်ပြီဆိုပါက..</p>
+<h4><b>၁) USB Drive ကို အမည်ပေးခြင်း</b><h4>
+<p>OS X El Capitan Boot drive ပြုလုပ်မည့် USB Drive ကို အခြား drive များနှင့် ရောထွေးမှားယွင်းခြင်း မဖြစ်အောင် “<code>ElCapInstaller</code>” ဟု အမည်ပေးလိုက်ပါ။ (သို့မဟုတ်) မိမိ စိတ်ကြိုက် အမည်လည်း ပေးနိုင်ပါတယ်၊ ပေးထားတဲ့ အမည်ကို မှတ်ထားပါ။
+(ယခုတော့ ElCapInstaller အမည်နှင့်သာ ဆက်လက် ရေးသားပါမည်။)</p>
+<p align="center"><img src="https://raw.githubusercontent.com/nayzaraung/blog/main/Photos/Format%2004.png" alt="" /></p>
+<h4><b>၂) Terminal ကို အသုံးပြု၍ ဖန်တီးခြင်း</b><h4>
+<p>USB Boot Drive ပြုလုပ်ရန် အတွက် Terminal Application ကို အသုံးပြုရပါမယ်။
+’Terminal’ App ကို “Launchpad” ထဲကနေ ဖွင့်၍သော်၎င်း၊ “Spotlight search” တွင် ‘Terminal’ ဟု ရိုက်၍သော်၎င်း ဖွင့်နိုင်ပါတယ်။</p>
+<p>Terminal ထဲမှာ အောက်ပါ Command များကို အတိအကျ ကူးယူပြီး၊ Paste လုပ်ပါ။</p>
+<p>(ချွင်းချက်။  ။ USB Drive အမည်ကို “ELCapInstaller” မဟုတ်ပဲ စိတ်ကြိုက်ပေးခဲ့ပါက Command line ထဲမှ “<code>ELCapInstaller</code>&quot; နေရာတွင် အဆိုပါ အမည်ကို အစားသွင်းပါ)</p>
+<p><font color="#4da6ff">** အကယ်၍ OS X El Capitan ကို Mirror မှ Download ရယူခဲ့ပါက /Applications/ ထဲသို့ ထည့်ပေးထားပါ။ **</font></p>
+<pre><code> sudo /Applications/Install\ OS\ X\ El\ Capitan.app/Contents/Resources/createinstallmedia --volume /Volumes/ElCapInstaller --applicationpath /Applications/Install\ OS\ X\ El\ Capitan.app —no interaction
+ </code></pre>
+<p>ပြီးရင် (Return/Enter) နှိပ်ပါ၊ administrator password တောင်းပါက ရိုက်သွင်းပါ။</p>
+ <p align="center"><img src="https://github.com/nayzaraung/blog/blob/main/Photos/Format%2006.png?raw=true" alt="" /></p>
+<p>၁၅မိနစ်ခန့် ကြာမြင့်ပြီးနောက် Terminal တွင် နောက်ဆုံးမှာ  “Copy complete” “Done” ဖြစ်သွားပါက El Capitan Boot Drive တစ်ခု ဖန်တီးလို့ ပြီးသွားပါပြီ။ အခြား Mac computer များတွင် ကြိုက်သလောက် El Capitan ကို offline install လုပ်ပေးနိုင်ပါပြီ..။</p>
+<hr>
+<h5>USB Flash Boot Drive မှ OS X El Capitan ကို Clean Install လုပ်ခြင်း</h5>
+<p>OS X ကို Clean Install မလုပ်မီ မိမိ၏ Data များကို External Hard Drive ထဲသို့ ကူးယူထားပါ။ Applications များကိုလည်း Finder ထဲရှိ Applications ထဲမှ select လုပ်ပြီး Copy/Paste နဲ့ ကူးယူထားနိုင်ပါသည်။</p>
+<p><b>နည်းလမ်း (၁)</b>
+မိမိ Install လုပ်လိုသည့် Mac computer တွင် Flash Boot Drive ကို တပ်ထားပြီး၊ Mac computer ကို စတင်ဖွင့်စဉ်တွင် “Option” key ကို နှိပ်ထားပြီး startup volume menu ကနေ USB ကို ရွေးပေးပါ။</p>
+<p><b>နည်းလမ်း (၂)</b>
+ဖွင်းထားပြီးသော Mac computer တွင် USB Boot Drive ကို တပ်လိုက်ပြီး၊ Drive ကိုရွေးကာ တိုက်ရိုက် Install ပြုလုပ်နိုင်ပါသည်။</p>
+
+	    </div>
+	    
+	    
+	    <div class="fblike">
+	    		<div class="fb-like" data-href="/posts/ansible-delegation/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+	    </div><br>
+	    
+	<div class="about">
+	<p> 
+     
+    </p>
+</div>
+		<nav id="pagination">
+			<a class="prev" href="https://nayzaraung.github.io/posts/change-log-in-background/">Prev</a>
+			<a class="next" href="https://nayzaraung.github.io/posts/format-disk-on-mac/">Next</a>
+		</nav>
+		<p>
+	<div class="row">
+      <div class="small-offset-1 small-10 columns">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">                        
+        var disqus_shortname = 'nayzaraung'; 
+        var disqus_developer = 1;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+        </script>
+
+        <script type="text/javascript" src="http://disqus.com/forums/antzucaro/embed.js"></script>
+        <noscript><a href="http://antzucaro.disqus.com/?url=ref">View the discussion thread.</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+    
+	<p>
+	
+		        <footer>
+		        	<a href="https://www.facebook.com/Konayzar" target="self">Facebook</a> 
+		        	<p> Nay Zar Aung 2015</p>
+		        </footer>
+		    </div>
+		  </div>
+		</div>
+      </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + ":change-me";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 4]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+
+</html>
+
