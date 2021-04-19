@@ -142,6 +142,20 @@ Apple က OS X Yosemite နှင့်နောက်ပိုင်း OS X �
     </item>
     
     <item>
+      <title>Take Screen Shot on Mac</title>
+      <link>https://nayzaraung.github.io/posts/how-to-take-screenshots-on-mac/</link>
+      <pubDate>Mon, 07 Dec 2015 14:45:52 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/how-to-take-screenshots-on-mac/</guid>
+      <description>Mac Beginner users များအတွက် အကြောင်းအမျိုးမျိုးနှင့် မိမိ Mac computer ၏ screen ကို snapshot ဓါတ်ပုံရိုက်ကူးနိုင်ရန် screen shot ရိုက်ကူးနည်း အမျိုးမျိုးကို ဖော်ပြလိုက်ပါတယ်။ Default အနေနှင့် screen shot ရိုက်လိုက်သော ဓါတ်ပုံများသည် Desktop ပေါ်တွင် သိမ်းသွားပြီး၊ File name အနေနဲ့ (Screen Shot Date Time) အလိုက်ဖြစ်ပြီး &amp;lsquo;.png’ format နဲ့ သိမ်းသွားပါလိမ့်မည်။
+Screen Shot ကို Option လေးမျိုးနှင့် ရိုက်ကူးနိုင်ပါတယ်..။
+(1) Full Screen Shot (မျက်နှာပြင် တစ်ခုလုံးအား ရိုက်ယူခြင်း)
+(2) Selection Area Shot (နေရာကွက်၍ ရိုက်ယူခြင်း)
+(3) Selective Window Shot (ဖွင့်ထားသည့် Window တစ်ခုကို ရိုက်ယူခြင်း)
+(4) Save to Clipboard Screen Shot (clipboard တွင် သိမ်းယူခြင်း)</description>
+    </item>
+    
+    <item>
       <title>Folder Lock with Password on Mac</title>
       <link>https://nayzaraung.github.io/posts/folder-lock/</link>
       <pubDate>Sun, 06 Dec 2015 20:32:21 +0800</pubDate>
