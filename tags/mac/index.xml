@@ -107,6 +107,17 @@ Application ကို အစမ်းသုံးကြည့်နိုင်�
     </item>
     
     <item>
+      <title>Reset Mac LogIn Password</title>
+      <link>https://nayzaraung.github.io/posts/reset-mac-login-password/</link>
+      <pubDate>Tue, 22 Dec 2015 15:32:56 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/reset-mac-login-password/</guid>
+      <description>Mac Computer ရဲ့ User LogIn password ကို အကြောင်းအမျိုးမျိုးကြောင့် မေ့လျှော့ခဲ့ပါက password reset လုပ်နိုင်တဲ့ နည်းလမ်းလေး ဖြစ်ပါတယ်။ OS X Yosemite မှ စတင်ပြီး ယခင် နည်းလမ်းဟောင်း အတိုင်း Recovery mode ထဲဝင်ပြီး Terminal မှတစ်ဆင့် password reset လုပ်တဲ့ နည်းလမ်းကို အသုံးမပြုနိုင်တော့ပါဘူး။
+Apple က OS X Yosemite နှင့်နောက်ပိုင်း OS X များကို ပိုမိုလုံခြုံမှုရှိစေရန် FileVault encryption ကို default အနေနှင့် &amp;lsquo;enable&amp;rsquo; လုပ်ထားပေးခဲ့တဲ့ အတွက် password reset ချရန် Recovery mode ထဲဝင်သော်လည်း HardDisk ကို ရှာတွေ့နိုင်တော့မည် မဟုတ်ပါ။
+မိမိရဲ့ Data များကို အခြားတစ်ယောက်မှ အလွယ်တစ်ကူ password reset ချပြီး ရှာမတွေ့နိုင်စေရန် FileVault က ထိန်းသိမ်းလိုက်ခြင်းဖြစ်သည်။ ထို့ကြောင့် မူရင်း User ၏ LogIn password မသိရှိပဲနှင့် Mac ကို လုံးဝ ဖွင့်နိုင်တော့မည် မဟုတ်ပါ။</description>
+    </item>
+    
+    <item>
       <title>Folder Lock with Password on Mac</title>
       <link>https://nayzaraung.github.io/posts/folder-lock/</link>
       <pubDate>Sun, 06 Dec 2015 20:32:21 +0800</pubDate>
