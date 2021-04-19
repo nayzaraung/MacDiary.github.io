@@ -72,5 +72,16 @@
 ၃) ထို့နောက် “Finder” ကိုဖွင့်ပြီး “command + shift + G” ကို နှိပ်ပြီး &amp;lsquo;/Library/Caches’ လမ်းကြောင်းကို ရှာပေးပါ။</description>
     </item>
     
+    <item>
+      <title>Format External or USB Drive for Mac OS X</title>
+      <link>https://nayzaraung.github.io/posts/formatonmac/</link>
+      <pubDate>Sun, 29 Nov 2015 11:09:00 +0800</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/formatonmac/</guid>
+      <description>External Hard Drive (သို့) USB Drive အသစ်အများစု၏ ပင်ကိုယ် format မှာ Windows computer များနှင့် အဆင်ပြေအောင် ထုတ်ပေးထားကြသည့်အတွက် ကို Mac OS X မှာ အသုံးပြုဖို့ဆိုရင် Mac computer နှင့် အဆင်ပြေမည့် format ကို ဦးစွာပြောင်းလဲပေးဖို့ လိုအပ်ပါတယ်။
+Mac အနေနှင့် Windows MSDOS, FAT, FAT32, ExFat နဲ့ NTFS formats တွေကို ဖတ်နိုင်သော်လည်း၊ အကယ်၍ အဆိုပါ External/USB Hard Drive ကို Windows နှင့် Mac computer နှစ်ခုစလုံးမှာ အကူးအပြောင်းနှင့် အသုံးပြုမယ် ဆိုရင်တော့ Mac compatible filesystem format ကိုသာ ပြောင်းပေးထားသင့်ပါတယ်။
+Format External Drive for Mac ၁) Format ပြောင်းလိုသော External/USB Drive ကို Mac မှာ ချိပ်ဆက်ပါ။</description>
+    </item>
+    
   </channel>
 </rss>
