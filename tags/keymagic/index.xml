@@ -6,7 +6,19 @@
     <description>Recent content in keymagic on My Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 10 Feb 2016 22:48:09 +0800</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/keymagic/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Apr 2021 19:45:47 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/keymagic/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Install KeyMagic on Mac OS</title>
+      <link>https://nayzaraung.github.io/posts/keymagic-on-mac/</link>
+      <pubDate>Sun, 18 Apr 2021 19:45:47 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/keymagic-on-mac/</guid>
+      <description>Mac OS Catalina မှာ KeyMagic ကီးဘုတ်နဲ့ မြန်မာစာယူနီကုဒ်စနစ် သွင်းယူနည်းဖြစ်ပါတယ်။ လိုအပ်သော ဖိုင်များကို အောက်ပါလင့်ခ်တွင် Download ရယူပါ။
+₪ Unicode For Mac
+မှတ်ချက်။ ။ KeyMagic 1.5.4 ၏ Keyboard တွင် Pyidaungsu MM ကီးဘုတ်က လက်ကွက်များလည်း မှန်ကန်ပြီး အကောင်းဆုံးဖြစ်ပါကြောင်း အမှားပြင်ဆင်ပါတယ်။
+အကယ်၍ ကီးဘုတ်တွေကို ဖျက်လိုက်မိပြီဆိုပါက KeyMagic ကို တစ်ခါပြန် Install လုပ်ပေးလိုက်ပါ။</description>
+    </item>
+    
     <item>
       <title>Add Myanmar3 Layout to KeyMagic</title>
       <link>https://nayzaraung.github.io/posts/add-myanmar3-layout-to-keymagic/</link>
