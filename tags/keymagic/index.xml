@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>unicode on My Diary</title>
-    <link>https://nayzaraung.github.io/tags/unicode/</link>
-    <description>Recent content in unicode on My Diary</description>
+    <title>keymagic on My Diary</title>
+    <link>https://nayzaraung.github.io/tags/keymagic/</link>
+    <description>Recent content in keymagic on My Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 24 Feb 2016 19:59:30 +0800</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/unicode/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Add Myanmar Dictionary On Mac</title>
-      <link>https://nayzaraung.github.io/posts/ornagai-unicode-dictionary/</link>
-      <pubDate>Wed, 24 Feb 2016 19:59:30 +0800</pubDate>
-      
-      <guid>https://nayzaraung.github.io/posts/ornagai-unicode-dictionary/</guid>
-      <description>Mobile အသုံးပြုသူများ အနေနှင့် iOS နှင့် Android နှစ်မျိုးစလုံးအတွက် &amp;ldquo;Ornagai&amp;rdquo; အင်္ဂလိပ်-မြန်မာ အဘိဓာန်ကို ကောင်းစွာ ကြားဖူး၊ အသုံးပြုဖူး ကြပါလိမ့်မည်။ Developer ကိုစေတန် ရေးသားပေးထားတဲ့ &amp;ldquo;Ornagai&amp;rdquo; အဘိဓာန်မှာ Mac အတွက် ယခင်က &amp;lsquo;ဇော်ဂျီ&amp;rsquo; ဗားရှင်းနဲ့သာ ရှိနေခဲ့ပြီး၊ ယခုအခါ မြန်မာယူနီကုဒ်ဗားရှင်း အနေနှင့် ထပ်မံ၍ ပံ့ပိုးပေးထားပါတယ်။
-အဆိုပါ &amp;ldquo;Ornagai&amp;rdquo; အဘိဓာန်ကို Mac တွင် ထည့်သွင်းပြီး Safari, iBook တို့မှ ဖတ်ရှုသမျှ အင်္ဂလိပ်စာများကို မြန်မာဘာသာ အဖြစ် အနက်အဓိပ္ပါယ်ဖွင့်ဆို ရှင်းလင်းချက်များကို ယူနီကုဒ်စနစ်ဖြင့် ဘာသာပြန်ပေးနိုင်ပါလိမ့်မည်။
-₪ Download Ornagai Unicode Dictionary
-ဦးစွာပထမ Download ဆွဲထားသော .zip ဖိုင်ကို အရင်ဖြည်ပါ (Extract)။
-၁။ ရရှိလာသော Ornagai Unicode.dictionary file ပေါ်တွင် Right Click နှိပ်ပြီး Copy လုပ်ပါ။</description>
-    </item>
-    
+    <lastBuildDate>Wed, 10 Feb 2016 22:48:09 +0800</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/keymagic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Add Myanmar3 Layout to KeyMagic</title>
       <link>https://nayzaraung.github.io/posts/add-myanmar3-layout-to-keymagic/</link>
