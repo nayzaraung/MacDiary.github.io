@@ -6,7 +6,19 @@
     <description>Recent content in how to on My Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 18 Apr 2021 19:45:47 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 20:23:29 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/how-to/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixed Myanmar Font Display Error in Excel</title>
+      <link>https://nayzaraung.github.io/posts/fixed-myanmar-font-display-in-excel/</link>
+      <pubDate>Sat, 26 Jun 2021 20:23:29 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/fixed-myanmar-font-display-in-excel/</guid>
+      <description>မြန်မာယူနီကုဒ်ဖောင့် အသုံးပြုသူတွေ ကြုံတွေနေရတဲ့ နောက်ထပ်ပြဿနာကတော့ Microsoft Excel မှာ မြန်မာဖောင့်တွေ အမှန်အတိုင်းမပြပဲ ကပေါက်တိ ကပေါက်ချာ ပေါ်နေခြင်းဖြစ်ပါတယ်။ အထူးသဖြင့် Excel နဲ့ စာရင်းတွေကို မြန်မာလို ရိုက်သွင်းရတဲ့ သူတွေအတွက် အကြီးအကျယ် အခက်တွေ့ရပါတယ်။
+ဒီပြဿနာကိုဖြေရှင်းနိုင်မယ့် နည်းလမ်းအသေးစိတ်ကို ဗီဒီယိုလေးနဲ့ ဖော်ပြပေးလိုက်ပါတယ်။ Excel version 16.48 မှာ စမ်းသပ်ပြသပေးထားတာဖြစ်ပါတယ်။ တစ်ဆင့်ခြင်း လိုက်ပါလုပ်ဆောင်ရင်း အခက်အခဲတွေကို ကျော်လွှားနိုင်ကြပါစေ။
+လိုအပ်တဲ့ &amp;ldquo;Pyidaungsu Book / Numbers&amp;rdquo; ဖောင့်တွေကို အောက်ပါလင့်ခ်တွင် Download ရယူနိုင်ပါတယ်။
+₪ Pyidaungsu (Book/Numbers)</description>
+    </item>
+    
     <item>
       <title>How To Install KeyMagic on Mac OS</title>
       <link>https://nayzaraung.github.io/posts/keymagic-on-mac/</link>
