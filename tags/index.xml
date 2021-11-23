@@ -2,152 +2,170 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Mac Diary</title>
-    <link>https://macdiary.github.io/tags/</link>
+    <link>https://nayzaraung.github.io/tags/</link>
     <description>Recent content in Tags on Mac Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jun 2021 20:23:29 +0630</lastBuildDate><atom:link href="https://macdiary.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 23 Nov 2021 15:56:17 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>excel</title>
-      <link>https://macdiary.github.io/tags/excel/</link>
-      <pubDate>Sat, 26 Jun 2021 20:23:29 +0630</pubDate>
+      <title>adobe</title>
+      <link>https://nayzaraung.github.io/tags/adobe/</link>
+      <pubDate>Tue, 23 Nov 2021 15:56:17 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/excel/</guid>
+      <guid>https://nayzaraung.github.io/tags/adobe/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>how to</title>
-      <link>https://macdiary.github.io/tags/how-to/</link>
-      <pubDate>Sat, 26 Jun 2021 20:23:29 +0630</pubDate>
+      <title>howto</title>
+      <link>https://nayzaraung.github.io/tags/howto/</link>
+      <pubDate>Tue, 23 Nov 2021 15:56:17 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/how-to/</guid>
+      <guid>https://nayzaraung.github.io/tags/howto/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mac</title>
-      <link>https://macdiary.github.io/tags/mac/</link>
+      <link>https://nayzaraung.github.io/tags/mac/</link>
+      <pubDate>Tue, 23 Nov 2021 15:56:17 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/tags/mac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>excel</title>
+      <link>https://nayzaraung.github.io/tags/excel/</link>
       <pubDate>Sat, 26 Jun 2021 20:23:29 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/mac/</guid>
+      <guid>https://nayzaraung.github.io/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>how to</title>
+      <link>https://nayzaraung.github.io/tags/how-to/</link>
+      <pubDate>Sat, 26 Jun 2021 20:23:29 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/tags/how-to/</guid>
       <description></description>
     </item>
     
     <item>
       <title>unicode</title>
-      <link>https://macdiary.github.io/tags/unicode/</link>
+      <link>https://nayzaraung.github.io/tags/unicode/</link>
       <pubDate>Sat, 26 Jun 2021 20:23:29 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/unicode/</guid>
+      <guid>https://nayzaraung.github.io/tags/unicode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>keymagic</title>
-      <link>https://macdiary.github.io/tags/keymagic/</link>
+      <link>https://nayzaraung.github.io/tags/keymagic/</link>
       <pubDate>Sun, 18 Apr 2021 19:45:47 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/keymagic/</guid>
+      <guid>https://nayzaraung.github.io/tags/keymagic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>articles</title>
-      <link>https://macdiary.github.io/tags/articles/</link>
+      <link>https://nayzaraung.github.io/tags/articles/</link>
       <pubDate>Sun, 24 Mar 2019 13:05:57 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/articles/</guid>
+      <guid>https://nayzaraung.github.io/tags/articles/</guid>
       <description></description>
     </item>
     
     <item>
       <title>contents</title>
-      <link>https://macdiary.github.io/tags/contents/</link>
+      <link>https://nayzaraung.github.io/tags/contents/</link>
       <pubDate>Sun, 24 Mar 2019 13:05:57 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/contents/</guid>
+      <guid>https://nayzaraung.github.io/tags/contents/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Calendar</title>
-      <link>https://macdiary.github.io/tags/calendar/</link>
+      <link>https://nayzaraung.github.io/tags/calendar/</link>
       <pubDate>Sat, 17 Mar 2018 14:44:28 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/calendar/</guid>
+      <guid>https://nayzaraung.github.io/tags/calendar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ios</title>
-      <link>https://macdiary.github.io/tags/ios/</link>
+      <link>https://nayzaraung.github.io/tags/ios/</link>
       <pubDate>Sat, 17 Mar 2018 14:44:28 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/ios/</guid>
+      <guid>https://nayzaraung.github.io/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tips &amp; tricks</title>
-      <link>https://macdiary.github.io/tags/tips-tricks/</link>
+      <link>https://nayzaraung.github.io/tags/tips-tricks/</link>
       <pubDate>Sat, 28 Oct 2017 19:22:18 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/tips-tricks/</guid>
+      <guid>https://nayzaraung.github.io/tags/tips-tricks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>error</title>
-      <link>https://macdiary.github.io/tags/error/</link>
+      <link>https://nayzaraung.github.io/tags/error/</link>
       <pubDate>Sat, 11 Mar 2017 20:02:45 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/error/</guid>
+      <guid>https://nayzaraung.github.io/tags/error/</guid>
       <description></description>
     </item>
     
     <item>
       <title>icloud</title>
-      <link>https://macdiary.github.io/tags/icloud/</link>
+      <link>https://nayzaraung.github.io/tags/icloud/</link>
       <pubDate>Sun, 03 Jul 2016 00:05:47 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/tags/icloud/</guid>
+      <guid>https://nayzaraung.github.io/tags/icloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>news</title>
-      <link>https://macdiary.github.io/tags/news/</link>
+      <link>https://nayzaraung.github.io/tags/news/</link>
       <pubDate>Fri, 26 Feb 2016 23:04:26 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/tags/news/</guid>
+      <guid>https://nayzaraung.github.io/tags/news/</guid>
       <description></description>
     </item>
     
     <item>
       <title>app</title>
-      <link>https://macdiary.github.io/tags/app/</link>
+      <link>https://nayzaraung.github.io/tags/app/</link>
       <pubDate>Thu, 04 Feb 2016 22:44:27 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/tags/app/</guid>
+      <guid>https://nayzaraung.github.io/tags/app/</guid>
       <description></description>
     </item>
     
     <item>
       <title>on my mind</title>
-      <link>https://macdiary.github.io/tags/on-my-mind/</link>
+      <link>https://nayzaraung.github.io/tags/on-my-mind/</link>
       <pubDate>Sun, 13 Dec 2015 22:37:24 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/tags/on-my-mind/</guid>
+      <guid>https://nayzaraung.github.io/tags/on-my-mind/</guid>
       <description></description>
     </item>
     
     <item>
       <title>health</title>
-      <link>https://macdiary.github.io/tags/health/</link>
+      <link>https://nayzaraung.github.io/tags/health/</link>
       <pubDate>Mon, 07 Dec 2015 17:18:28 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/tags/health/</guid>
+      <guid>https://nayzaraung.github.io/tags/health/</guid>
       <description></description>
     </item>
     

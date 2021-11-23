@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tips &amp; tricks on Mac Diary</title>
-    <link>https://macdiary.github.io/tags/tips-tricks/</link>
+    <link>https://nayzaraung.github.io/tags/tips-tricks/</link>
     <description>Recent content in tips &amp; tricks on Mac Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Oct 2017 19:22:18 +0630</lastBuildDate><atom:link href="https://macdiary.github.io/tags/tips-tricks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 28 Oct 2017 19:22:18 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/tips-tricks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>iOS Fix Battery Life Problem</title>
-      <link>https://macdiary.github.io/posts/fixed-battery-life-ios/</link>
+      <link>https://nayzaraung.github.io/posts/fixed-battery-life-ios/</link>
       <pubDate>Sat, 28 Oct 2017 19:22:18 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/posts/fixed-battery-life-ios/</guid>
+      <guid>https://nayzaraung.github.io/posts/fixed-battery-life-ios/</guid>
       <description>iPhone, iPad, iPodTouch တို့မှာ iOS 11 ကိုတင်လိုက်ပြီးနောက် အသုံးပြုရာတွင် ယခင်ထက် နှေးသလိုခံစားနေရသူများ၊ ဘက်ထရီအစားမြန်နေခြင်းစတဲ့ ပြသနာများနဲ့ ရင်ဆိုင်နေရသူများအတွက် ဖြေရှင်းနည်းအချို့ကို ဖော်ပြလိုက်ပါတယ်။
 Apple ဟာ Device အမြင့်များထုတ်လာသလို အဲဒီအတွက် အဆင်ပြေမယ့် iOS update များကိုလည်း အဆက်မပြတ်ထုတ်ပေးနေပါတယ်။ iOS အသစ်များဟာ နောက်ဆုံးပေါ် Device များအတွက် အဓိကရည်ရွယ်ထားတဲ့အတွက် Model အဟောင်း Device များအနေနဲ့ Update လုပ်လို့ရသည့်တိုင် အသုံးပြုရတာ နှေးကွေးသွားခြင်း၊ ဘတ်ထရီအစားမြန်လာခြင်းတို့နဲ့ ကြုံတွေ့ရတတ်ပါတယ်။
 အကယ်၍ သင်ဟာ iOS 11 ကို Update လုပ်မိပြီးမှ ဘက်ထရီစားနှုန်း သိသိသာသာ မြန်လာတယ်ဆိုရင်တော့ ဖော်ပြပါအချက်လေးတွေက အထောက်အကူပြုနိုင်လိမ့်မည်ဟု ​မျှော်လင့်ပါတယ်။
@@ -22,10 +22,10 @@ Apple ဟာ Device အမြင့်များထုတ်လာသလို
     
     <item>
       <title>Mac Keyboard Shortcuts</title>
-      <link>https://macdiary.github.io/posts/mac-kb-shortcuts/</link>
+      <link>https://nayzaraung.github.io/posts/mac-kb-shortcuts/</link>
       <pubDate>Thu, 31 Dec 2015 22:10:39 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/posts/mac-kb-shortcuts/</guid>
+      <guid>https://nayzaraung.github.io/posts/mac-kb-shortcuts/</guid>
       <description>Windows ကနေ Mac ကွန်ပျူတာကို ပြောင်းသုံးကာစ လူသစ်များအတွက် ကိုင်ကာစမှာ အတော်ကသိကအောက်ဖြစ်ရတာလေးတွေ ရှိပါတယ်၊ အဲသည်အထဲမှာ Mac နဲ့ Windows ရဲ့ Keyboard layout မတူတာလဲ တစ်ခု အပါအဝင် ဖြစ်ပါတယ်။ Windows Keyboard မှာပါတဲ့ ကီးအချို့ Mac keyboard မှာ မပါရှိပါဘူး (ဥပမာ Home, PgUp, PgDn) လို ကီးမျိုးလေးတွေပေါ့။
 ဒီလိုမျိုး Windows တုန်းက သုံးနေကြကီးလေးတွေရဲ့ လုပ်ဆောင်ချက်အတိုင်း Mac မှာ အသုံးပြုနိုင်တဲ့ Shortcuts လေးတွေကတော့&amp;hellip;
 &amp;ldquo;Home&amp;rdquo; နှင့် &amp;ldquo;End&amp;rdquo; Keys
@@ -34,10 +34,10 @@ Apple ဟာ Device အမြင့်များထုတ်လာသလို
     
     <item>
       <title>Useful Tips &amp; Tricks For OS X</title>
-      <link>https://macdiary.github.io/posts/osx-useful-tips-tricks/</link>
+      <link>https://nayzaraung.github.io/posts/osx-useful-tips-tricks/</link>
       <pubDate>Thu, 17 Dec 2015 12:43:39 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/posts/osx-useful-tips-tricks/</guid>
+      <guid>https://nayzaraung.github.io/posts/osx-useful-tips-tricks/</guid>
       <description>Mac OS X ကို စတင်အသုံးပြုသူများအတွက် အသုံးဝင်မည့် လုပ်ဆောင်ချက် အသေးစားလေးများကို စုစည်းဖော်ပြထားပါတယ်။
 1. Default Application ပြောင်းလဲခြင်း
 မိမိစက်ထဲရှိ ဖိုင်များကို နှစ်သက်ရာ သင့်တော်သည့် Application နှင့် ပြောင်းလဲ ဖွင့်လှစ်ရန်ဖြစ်ပါတယ်။ ဥပမာအားဖြင့် မီဒီယာဖိုင်များ ဖြစ်ကြသော movies, musics များကို မိမိနှစ်သက်ရာ player နှင့် ပြောင်းလဲဖွင့်လှစ်နိုင်ပါတယ်၊ movie format တစ်ခုဖြစ်သည့် (.mp4) file များကို double click နှင့် ဖွင့်လိုက်ပါက Default အနေနှင့် Mac ၏ Quicktime Player နှင့်သာ ပြသကြည့်ရှုနိုင်ပါလိမ့်မည်။
@@ -47,10 +47,10 @@ movie file ကို Right click (သို့) Touch pad တွင် လက်
     
     <item>
       <title>Change Log In Background Image on Mac OS X</title>
-      <link>https://macdiary.github.io/posts/change-log-in-background/</link>
+      <link>https://nayzaraung.github.io/posts/change-log-in-background/</link>
       <pubDate>Tue, 01 Dec 2015 21:12:55 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/posts/change-log-in-background/</guid>
+      <guid>https://nayzaraung.github.io/posts/change-log-in-background/</guid>
       <description>Mac ၏ Log In screen တွင် မိမိစိတ်ကြိုက် နောက်ခံပုံများကို ပြောင်းလဲနိုင်ပါတယ်..။
 ၁) ပထမဦးစွာ မိမိပြောင်းလဲလိုသော Image, Photo တစ်ခုခုကို Photoshop ကဲ့သို့သော Image editor တစ်ခုခုနှင့် aspect Ratio စကေးကိုက်ညီအောင် အရင်ပြုပြင်ပါ။
 အချိုးများမှာ။ ။ 1280 x 800 pixels, 1680 x 1050 pixels, 1920 x 1200 pixels တို့ဖြစ်ပါတယ်။

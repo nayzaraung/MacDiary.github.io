@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>unicode on Mac Diary</title>
-    <link>https://macdiary.github.io/tags/unicode/</link>
+    <link>https://nayzaraung.github.io/tags/unicode/</link>
     <description>Recent content in unicode on Mac Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Jun 2021 20:23:29 +0630</lastBuildDate><atom:link href="https://macdiary.github.io/tags/unicode/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Jun 2021 20:23:29 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/unicode/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Fixed Myanmar Font Display Error in Excel</title>
-      <link>https://macdiary.github.io/posts/fixed-myanmar-font-display-in-excel/</link>
+      <link>https://nayzaraung.github.io/posts/fixed-myanmar-font-display-in-excel/</link>
       <pubDate>Sat, 26 Jun 2021 20:23:29 +0630</pubDate>
       
-      <guid>https://macdiary.github.io/posts/fixed-myanmar-font-display-in-excel/</guid>
+      <guid>https://nayzaraung.github.io/posts/fixed-myanmar-font-display-in-excel/</guid>
       <description>မြန်မာယူနီကုဒ်ဖောင့် အသုံးပြုသူတွေ ကြုံတွေနေရတဲ့ နောက်ထပ်ပြဿနာကတော့ Microsoft Excel မှာ မြန်မာဖောင့်တွေ အမှန်အတိုင်းမပြပဲ ကပေါက်တိ ကပေါက်ချာ ပေါ်နေခြင်းဖြစ်ပါတယ်။ အထူးသဖြင့် Excel နဲ့ စာရင်းတွေကို မြန်မာလို ရိုက်သွင်းရတဲ့ သူတွေအတွက် အကြီးအကျယ် အခက်တွေ့ရပါတယ်။
 ဒီပြဿနာကိုဖြေရှင်းနိုင်မယ့် နည်းလမ်းအသေးစိတ်ကို ဗီဒီယိုလေးနဲ့ ဖော်ပြပေးလိုက်ပါတယ်။ Excel version 16.48 မှာ စမ်းသပ်ပြသပေးထားတာဖြစ်ပါတယ်။ တစ်ဆင့်ခြင်း လိုက်ပါလုပ်ဆောင်ရင်း အခက်အခဲတွေကို ကျော်လွှားနိုင်ကြပါစေ။
 လိုအပ်တဲ့ &amp;ldquo;Pyidaungsu Book / Numbers&amp;rdquo; ဖောင့်တွေကို အောက်ပါလင့်ခ်တွင် Download ရယူနိုင်ပါတယ်။
@@ -21,10 +21,10 @@
     
     <item>
       <title>Add Myanmar Dictionary On Mac</title>
-      <link>https://macdiary.github.io/posts/ornagai-unicode-dictionary/</link>
+      <link>https://nayzaraung.github.io/posts/ornagai-unicode-dictionary/</link>
       <pubDate>Wed, 24 Feb 2016 19:59:30 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/posts/ornagai-unicode-dictionary/</guid>
+      <guid>https://nayzaraung.github.io/posts/ornagai-unicode-dictionary/</guid>
       <description>Mobile အသုံးပြုသူများ အနေနှင့် iOS နှင့် Android နှစ်မျိုးစလုံးအတွက် &amp;ldquo;Ornagai&amp;rdquo; အင်္ဂလိပ်-မြန်မာ အဘိဓာန်ကို ကောင်းစွာ ကြားဖူး၊ အသုံးပြုဖူး ကြပါလိမ့်မည်။ Developer ကိုစေတန် ရေးသားပေးထားတဲ့ &amp;ldquo;Ornagai&amp;rdquo; အဘိဓာန်မှာ Mac အတွက် ယခင်က &amp;lsquo;ဇော်ဂျီ&amp;rsquo; ဗားရှင်းနဲ့သာ ရှိနေခဲ့ပြီး၊ ယခုအခါ မြန်မာယူနီကုဒ်ဗားရှင်း အနေနှင့် ထပ်မံ၍ ပံ့ပိုးပေးထားပါတယ်။
 အဆိုပါ &amp;ldquo;Ornagai&amp;rdquo; အဘိဓာန်ကို Mac တွင် ထည့်သွင်းပြီး Safari, iBook တို့မှ ဖတ်ရှုသမျှ အင်္ဂလိပ်စာများကို မြန်မာဘာသာ အဖြစ် အနက်အဓိပ္ပါယ်ဖွင့်ဆို ရှင်းလင်းချက်များကို ယူနီကုဒ်စနစ်ဖြင့် ဘာသာပြန်ပေးနိုင်ပါလိမ့်မည်။
 ₪ Download Ornagai Unicode Dictionary
@@ -34,10 +34,10 @@
     
     <item>
       <title>Add Myanmar3 Layout to KeyMagic</title>
-      <link>https://macdiary.github.io/posts/add-myanmar3-layout-to-keymagic/</link>
+      <link>https://nayzaraung.github.io/posts/add-myanmar3-layout-to-keymagic/</link>
       <pubDate>Wed, 10 Feb 2016 22:48:09 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/posts/add-myanmar3-layout-to-keymagic/</guid>
+      <guid>https://nayzaraung.github.io/posts/add-myanmar3-layout-to-keymagic/</guid>
       <description>မြန်မာစာစနစ်အတွက် ဇော်ဂျီကနေ ယူနီကုဒ်စနစ်ကို ပြောင်းသုံးကြဖို့ လက်တွန့်နေကြသည့် အချက်များထဲတွင် (သဝေထိုး)ကို ယူနီကုဒ်တွင် ဗျည်း၏ နောက်မှ ရိုက်ရသည် ဆိုသော အချက်တစ်ချက်လည်း အဓိက ပါဝင်နေပါတယ်။ ဤအချက်သည်ပင်လျှင် ယူနီကုဒ်သုံးစွဲနေကြသူများ (Unicode Users) အချင်းခြင်း ကြားထဲ၌ပင် အယူအဆ ကွဲပြားနေရသော အချက်တစ်ချက် ဖြစ်ပါတယ်။
  လက်ရှိအခြေအနေတွင် ယူနီကုဒ်ကို Mac OS ပေါ်တွင် အသုံးပြု ရေးသားနိုင်ရန် ကီးဘုတ်လက်ကွက်များ(keyboard layouts) အဓိကအားဖြင့် နှစ်မျိုး ကွဲပြားနေပါတယ်၊ Windows တွင်လည်း အလားတူ ပြဿနာမျိုးတွေ့နေရပြီး Windows တွင်တော့ အခြား keyboard layouts များလည်း ရှိနေပါတယ်။
 (၁) KeyMagic (မြန်စံ)
@@ -46,10 +46,10 @@
     
     <item>
       <title>Myanmar Unicode Font Journey</title>
-      <link>https://macdiary.github.io/posts/myanmar-unicode-font-journey/</link>
+      <link>https://nayzaraung.github.io/posts/myanmar-unicode-font-journey/</link>
       <pubDate>Mon, 21 Dec 2015 23:55:04 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/posts/myanmar-unicode-font-journey/</guid>
+      <guid>https://nayzaraung.github.io/posts/myanmar-unicode-font-journey/</guid>
       <description>ရှေ့ဆက်ရန်ခရီး
  ဇာတ်လမ်းအစ&amp;hellip;
 ကျွန်တော်တို့ ပလန်းနက်ဆိုက်မှာ ဇော်ဂျီဖောင့်ကို စ မိတ်ဆက်တုန်းက ဟာ&amp;hellip; ဒီဆိုက် မိုက်တယ်.. မြန်မာလိုရော အင်္ဂလိပ်လိုရော ရေးလို့ရတယ်.. ဇော်ဂျီဆိုတာကလည်း ကမ္ဘာ့အဆင့်မီ ယူနီကုဒ်ဖောင့်ဆိုပါလား ဆိုပြီးတော့ စွဲစွဲမြဲမြဲ စသုံးဖြစ်ခဲ့တယ်။
@@ -60,10 +60,10 @@
     
     <item>
       <title>Install Myanmar Unicode On Mac</title>
-      <link>https://macdiary.github.io/posts/install-myanmar-unicode-on-mac/</link>
+      <link>https://nayzaraung.github.io/posts/install-myanmar-unicode-on-mac/</link>
       <pubDate>Fri, 04 Dec 2015 13:25:57 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/posts/install-myanmar-unicode-on-mac/</guid>
+      <guid>https://nayzaraung.github.io/posts/install-myanmar-unicode-on-mac/</guid>
       <description>အနာဂါတ်တွင် မြန်မာစာစနစ်ကို ဦးဆောင်လာမည့် နိုင်ငံတစ်ကာ အသိမှတ်ပြု မြန်မာစာစနစ် တစ်ခုဖြစ်သော မြန်မာယူနီကုဒ်ဖောင့်ကို Mac OS X တွင် လွယ်ကူစွာ သွင်းယူနည်းဖြစ်ပါသည်။
 Keyboard, Unicode Fonts နှင့် Safari တွင် ယူနီကုဒ်နှင့် ဇော်ဂျီ နှစ်မျိုးလုံးကိုပါ ဖတ်ရှုနိုင်မည့် Safari Extension နှင့်တစ်ကွ Offline Converter တို့ကိုပါ စုံစုံလင်လင် ထည့်သွင်းပေးထားပြီး မည်သို့ မည်ပုံ အသုံးချရမည်ကို အလွယ်ကူဆုံးဖြစ်အောင် ဖော်ပြပေးထားပါတယ်&amp;hellip;
 အကယ်၍ Mac OS X တွင် ဇော်ဂျီဖောင့် သွင်းယူထားမိပြီးသူ ဖြစ်ပါက ယူနီကုဒ်သို့ ကူးပြောင်းရန် အဆင့်(၁) မှ စတင်၍ လုပ်ဆောင်ပါ။
@@ -73,10 +73,10 @@ Keyboard, Unicode Fonts နှင့် Safari တွင် ယူနီကု�
     
     <item>
       <title>Unicode Start with &#39;U&#39;...</title>
-      <link>https://macdiary.github.io/posts/myanmar-unicode/</link>
+      <link>https://nayzaraung.github.io/posts/myanmar-unicode/</link>
       <pubDate>Fri, 27 Nov 2015 04:59:39 +0800</pubDate>
       
-      <guid>https://macdiary.github.io/posts/myanmar-unicode/</guid>
+      <guid>https://nayzaraung.github.io/posts/myanmar-unicode/</guid>
       <description>ယူနီကုဒ်စနစ် အပြောင်းအလဲကို ဦးဆောင်မည့်သူ ဘယ်သူဖြစ်မလဲ…?
 မြန်မာဇော်ဂျီစာရိုက်စနစ် ကနေ မြန်မာယူနီကုဒ်စာရိုက်စနစ် ကို ပြောင်းဖို့ တိုက်တွန်းကြည့်မိတဲ့အခါ အသုံးပြုသူ(Users) အများစုက ပြောင်းလဲချင်တဲ့ ဆန္ဒရှိနေတာကို ဝမ်းမြောက်စွာ တွေ့ရှိရပါတယ်။ သို့သော် သူတို့တွင် အခက်အခဲ ကြီးြကီးမားမား (၂)ခု ရှိနေသည်က ပက်သက်ဆက်ဆံရမည့် ပတ်ဝန်းကျင်က “ဇော်ဂျီ” အများစု ဖြစ်နေခြင်းနှင့် နိစ္စဓူဝ ဝင်ရောက်ဖတ်ရှုနေသော Social media သတင်း ဝဘ်ဆိုက်အများစုက ဇော်ဂျီနှင့် ရေးသားဖော်ပြထားခြင်း စတဲ့ ရှောင်လွဲမရတဲ့ အခက်အခဲတွေပဲ ဖြစ်ပါတယ်…။
 (၁)……

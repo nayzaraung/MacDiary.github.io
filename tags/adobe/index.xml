@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>adobe on Mac Diary</title>
+    <link>https://nayzaraung.github.io/tags/adobe/</link>
+    <description>Recent content in adobe on Mac Diary</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Nov 2021 15:56:17 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/adobe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adobe 2021 Working with M1 Monterey OS</title>
+      <link>https://nayzaraung.github.io/posts/adobe2021withmonterey/</link>
+      <pubDate>Tue, 23 Nov 2021 15:56:17 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/adobe2021withmonterey/</guid>
+      <description>အသစ်ထွက်လာတဲ့ macOS Monterey နဲ့အတူ M1 ပဲဖြစ်ဖြစ် Intel မှာပဲဖြစ်ဖြစ် Adobe CC 2021 ကို သွင်းယူအသုံးပြုနိုင်ပါပြီ။ ဒါပေမယ့် အရင်က ကိုယ့်ရဲ့ စက်ထဲမှာ Adobe Version အဟောင်းတွေ သွင်းထားဖူးရင်တော့ အဆင့် (၂) ဆင့်ကို လုပ်ဆောင်ပြီးမှာ Adobe CC 2021 App တွေကို သွင်းလို့ရမှာဖြစ်ပါတယ်။
+Adobe version အဟောင်းတွေဖြစ်တဲ့ CS, CC 2015, 2017, 2018 စသည်ဖြင့် တစ်ခုခုကို အရင်က စက်ထဲမှာ သွင်းထားခဲ့ဖူးတယ်ဆိုရင်တော့ CC 2021 version ကို တင်တဲ့အခါမှာ error တွေ တက်လာတတ်ပါတယ်။
+Adobe version အဟောင်းတွေကို ပုံမှန်အတိုင်း Uninstall လုပ်လိုက်ပေမယ့် သူနဲ့ ဆက်စပ်တဲ့ File အကြွင်းအကျန်တွေက စက်ထဲမှာ ရှိနေသေးတာမို့ CC 2021 ကို တင်တဲ့အခါမှာ Error တွေ မျိုးစုံတက်ရတာဖြစ်ပါတယ်။</description>
+    </item>
+    
+  </channel>
+</rss>
