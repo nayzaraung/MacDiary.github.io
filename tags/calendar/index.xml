@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Calendar on Mac Diary</title>
-    <link>https://nayzaraung.github.io/tags/calendar/</link>
+    <link>https://macdiary.github.io/tags/calendar/</link>
     <description>Recent content in Calendar on Mac Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Mar 2018 14:44:28 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/calendar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Mar 2018 14:44:28 +0630</lastBuildDate><atom:link href="https://macdiary.github.io/tags/calendar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Add Myanmar Holiday Calendar</title>
-      <link>https://nayzaraung.github.io/posts/google-calendar/</link>
+      <link>https://macdiary.github.io/posts/google-calendar/</link>
       <pubDate>Sat, 17 Mar 2018 14:44:28 +0630</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/google-calendar/</guid>
+      <guid>https://macdiary.github.io/posts/google-calendar/</guid>
       <description>Mac နဲ့ iOS တို့မှာလိုပဲ Android အသုံးပြုသူများအတွက် Google Calendar မှာ မြန်မာရုံးပိတ်ရက်များ ပါဝင်တဲ့ ပြက္ခဒိန်ထည့်သွင်းနည်းကို ဖော်ပြပေးလိုက်ပါတယ်။
 ယခုနည်းလမ်းလေးက ပြက္ခဒိန်ကို Desktop ကနေ URL သုံးပြီး ထည့်လို့မရသူတွေအတွက်လည်း အဆင်ပြေသွားမှာဖြစ်ပါတယ်။
 Android အသုံးပြုသူများအနေနဲ့ ပေးထားသော လင့်ခ်ကို တိုက်ရိုက်နှိပ်ပြီး Download လုပ်ပြီး သွင်းယူနိုင်ပါတယ်။
@@ -24,10 +24,10 @@ Desktop ပေါ်မှလုပ်ဆောင်ခြင်း
     
     <item>
       <title>Myanmar Holiday Calendar</title>
-      <link>https://nayzaraung.github.io/posts/mm-holiday-calendar/</link>
+      <link>https://macdiary.github.io/posts/mm-holiday-calendar/</link>
       <pubDate>Fri, 12 Feb 2016 15:16:36 +0800</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/mm-holiday-calendar/</guid>
+      <guid>https://macdiary.github.io/posts/mm-holiday-calendar/</guid>
       <description>Mac OS X နဲ့ iDevices (iPhone, iPad, iPad Pro, iPodTouch) တို့ရဲ့ ပြက္ခဒိန်မှာ မြန်မာနိုင်ငံရဲ့ နေ့ထူးနေ့မြတ်များ၊ ရုံးပိတ်ရက်များကို တစ်နှစ်လုံးစာ အတွက် ထည့်သွင်းနိုင်ပြီး၊ အဆိုပါ နေ့ထူးနေ့မြတ်များရဲ့ အဓိပ္ပါယ်ဖွင့်ဆိုချက်ကိုလည်း မြန်မာဘာသာ(ယူနီကုဒ်စနစ်)ဖြင့် မြင်တွေ့ဖတ်ရှုနိုင်မှာ ဖြစ်ပါတယ်။
 အဆိုပါ မြန်မာအားလပ်ရက် ပြက္ခဒိန်ကို &amp;ldquo;ကိုဆန်းထွန်း” (ပြည်ထောင်စုဖောင့် ဖန်တီးသူ) မှ မြန်မာဘာသာ ရှင်းလင်းချက်နှင့်အတူ ပြန်လည် ပြုပြင်ဖန်တီးပေးထားခြင်း ဖြစ်ပါတယ်။
 Mac OS X မှာ သွင်းယူပြီးနောက် iCloud ချိပ်ဆက်မှုဖြင့် မိမိရဲ့ အခြား iDevices များမှာပါ အလိုလျှောက် သွင်းယူပြီးသား ဖြစ်သွားပါလိမ့်မည်။

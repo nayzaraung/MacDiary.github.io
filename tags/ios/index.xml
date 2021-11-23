@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ios on Mac Diary</title>
-    <link>https://nayzaraung.github.io/tags/ios/</link>
+    <link>https://macdiary.github.io/tags/ios/</link>
     <description>Recent content in ios on Mac Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 Mar 2018 14:44:28 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Mar 2018 14:44:28 +0630</lastBuildDate><atom:link href="https://macdiary.github.io/tags/ios/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Easy Add Myanmar Holiday Calendar</title>
-      <link>https://nayzaraung.github.io/posts/google-calendar/</link>
+      <link>https://macdiary.github.io/posts/google-calendar/</link>
       <pubDate>Sat, 17 Mar 2018 14:44:28 +0630</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/google-calendar/</guid>
+      <guid>https://macdiary.github.io/posts/google-calendar/</guid>
       <description>Mac နဲ့ iOS တို့မှာလိုပဲ Android အသုံးပြုသူများအတွက် Google Calendar မှာ မြန်မာရုံးပိတ်ရက်များ ပါဝင်တဲ့ ပြက္ခဒိန်ထည့်သွင်းနည်းကို ဖော်ပြပေးလိုက်ပါတယ်။
 ယခုနည်းလမ်းလေးက ပြက္ခဒိန်ကို Desktop ကနေ URL သုံးပြီး ထည့်လို့မရသူတွေအတွက်လည်း အဆင်ပြေသွားမှာဖြစ်ပါတယ်။
 Android အသုံးပြုသူများအနေနဲ့ ပေးထားသော လင့်ခ်ကို တိုက်ရိုက်နှိပ်ပြီး Download လုပ်ပြီး သွင်းယူနိုင်ပါတယ်။
@@ -24,10 +24,10 @@ Desktop ပေါ်မှလုပ်ဆောင်ခြင်း
     
     <item>
       <title>iOS Fix Battery Life Problem</title>
-      <link>https://nayzaraung.github.io/posts/fixed-battery-life-ios/</link>
+      <link>https://macdiary.github.io/posts/fixed-battery-life-ios/</link>
       <pubDate>Sat, 28 Oct 2017 19:22:18 +0630</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/fixed-battery-life-ios/</guid>
+      <guid>https://macdiary.github.io/posts/fixed-battery-life-ios/</guid>
       <description>iPhone, iPad, iPodTouch တို့မှာ iOS 11 ကိုတင်လိုက်ပြီးနောက် အသုံးပြုရာတွင် ယခင်ထက် နှေးသလိုခံစားနေရသူများ၊ ဘက်ထရီအစားမြန်နေခြင်းစတဲ့ ပြသနာများနဲ့ ရင်ဆိုင်နေရသူများအတွက် ဖြေရှင်းနည်းအချို့ကို ဖော်ပြလိုက်ပါတယ်။
 Apple ဟာ Device အမြင့်များထုတ်လာသလို အဲဒီအတွက် အဆင်ပြေမယ့် iOS update များကိုလည်း အဆက်မပြတ်ထုတ်ပေးနေပါတယ်။ iOS အသစ်များဟာ နောက်ဆုံးပေါ် Device များအတွက် အဓိကရည်ရွယ်ထားတဲ့အတွက် Model အဟောင်း Device များအနေနဲ့ Update လုပ်လို့ရသည့်တိုင် အသုံးပြုရတာ နှေးကွေးသွားခြင်း၊ ဘတ်ထရီအစားမြန်လာခြင်းတို့နဲ့ ကြုံတွေ့ရတတ်ပါတယ်။
 အကယ်၍ သင်ဟာ iOS 11 ကို Update လုပ်မိပြီးမှ ဘက်ထရီစားနှုန်း သိသိသာသာ မြန်လာတယ်ဆိုရင်တော့ ဖော်ပြပါအချက်လေးတွေက အထောက်အကူပြုနိုင်လိမ့်မည်ဟု ​မျှော်လင့်ပါတယ်။
@@ -37,10 +37,10 @@ Apple ဟာ Device အမြင့်များထုတ်လာသလို
     
     <item>
       <title>How to download Youtube Videos on iOS</title>
-      <link>https://nayzaraung.github.io/posts/download-youtube/</link>
+      <link>https://macdiary.github.io/posts/download-youtube/</link>
       <pubDate>Mon, 28 Aug 2017 20:41:15 +0630</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/download-youtube/</guid>
+      <guid>https://macdiary.github.io/posts/download-youtube/</guid>
       <description>ယခင်က YouTube Video နဲ့ အွန်လိုင်းဝဘ်ဆိုက်ပေါ်က ဗီဒီယိုတွေကို အလွယ်တစ်ကူ ဒေါင်းလုတ်ချနိုင်တဲ့ Application တွေ ရှိခဲ့ဖူးပါတယ်။ ကိုယ်ဒေါင်းလုတ် လုပ်ချင်တဲ့ ဗီဒီယိုပေါ်မှာ လက်နဲ့ ကြာကြာ ဖိထားလိုက်တာနဲ့ ဒေါင်းလုပ်ချနိုင်ခဲ့ပါတယ်။
  ယနေ့အချိန်မှာတော့ Apple က မူပိုင်ခွင့်နဲ့ ပက်သက်ပြီး ပေါ်လစီတင်းကျပ်ခဲ့ပြီး Video, Audio ဒေါင်းလုတ်ချနိုင်တဲ့ App တွေကို ဖယ်ရှားခဲ့သလို Developer တွေကိုလည်း သတိပေးခဲ့ပါတယ်။ ဒါကြောင့်မို့ ယခင်က ဒေါင်းလုပ်ချနိုင်တဲ့ App တွေကို AppStore မှာ ရှာတွေ့ပေမယ့် အသုံးပြုသူရဲ့ Cloud storage (DropBox, GoogleDrive..) စသည်ဖြင့်တွေပေါ်ကနေသာ ဒေါင်းလုတ်ပြုလုပ်နိုင်ပြီး YouTube ပေါ်ကနေ ဒေါင်းလုတ် မလုပ်နိုင်တော့ပါဘူး။
  ဆိုလိုတာက အခုအချိန်မှာ Jailbreak မလုပ်ထားတဲ့ iOS ပေါ်ကနေ YouTube ဒေါင်းလုတ်ချဖို့ ဖြစ်နိုင်ချေ မရှိသလောက်ပါပဲ။ ဒါပေမယ့် iOS ပေါ်ကနေ YouTube ဗီဒီယိုတွေကို တိုက်ရိုက်ဒေါင်းလုတ်ချပြီး အချိန်မရွေး Offline ပြန်လည်ကြည့်ရှုနိုင်တဲ့ ကွက်ပျောက် နည်းလမ်းလေးကို ဝေမျှပေးလိုက်ပါတယ်။</description>
@@ -48,10 +48,10 @@ Apple ဟာ Device အမြင့်များထုတ်လာသလို
     
     <item>
       <title>Save Mobile Data Usage on iOS</title>
-      <link>https://nayzaraung.github.io/posts/save-mobile-data-ios/</link>
+      <link>https://macdiary.github.io/posts/save-mobile-data-ios/</link>
       <pubDate>Thu, 18 Aug 2016 13:27:22 +0630</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/save-mobile-data-ios/</guid>
+      <guid>https://macdiary.github.io/posts/save-mobile-data-ios/</guid>
       <description>Internet Data ကို Limit နဲ့ သုံးနေကြရတဲ့အခါ မိမိ iPhone ရဲ့ မည်သည့် Application တွေက Data အများဆုံးသုံးနေလဲဆိုတာ သိဖို့လိုအပ်လာပါတယ်။ ဒီအပြင် ဘယ်လိုလုပ်ဆောင်ချက်တွေက Mobile Data ကို ယိုစိမ့်နေစေသလဲဆိုတာ သိထားဖို့ လိုအပ်ပါတယ်။ ဒီလိုသိမှသာ မိမိအသုံးမပြုတဲ့ Application တွေ Backgroud မှာ အလုပ်မလုပ်အောင် ပိတ်ထားပြီး Mobile Data ကို လိုအပ်သလောက်ပဲ ချွေတာသုံးစွဲနိုင်မှာ ဖြစ်ပါတယ်။
 ယခုဖော်ပြမည့် နည်းလမ်းများကို အသုံးပြု၍ iOS 9 နှင့်အထက် iPhone, iPad တို့မှာ အလွယ်တစ်ကူ ပြုပြင်ပြောင်းလဲပြီး Mobile Data ကို သိသိသာသာ ချိုးခြံချွေတာ နိုင်ပါလိမ့်မယ်။
 ၁) iCloud Drive က Use Cellular Data ကို ပိတ်ထားခြင်း
@@ -60,30 +60,30 @@ Apple ဟာ Device အမြင့်များထုတ်လာသလို
     
     <item>
       <title>iPhone Contacts Transfer to Android</title>
-      <link>https://nayzaraung.github.io/posts/contacts-transfer/</link>
+      <link>https://macdiary.github.io/posts/contacts-transfer/</link>
       <pubDate>Sat, 16 Jul 2016 20:55:31 +0630</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/contacts-transfer/</guid>
+      <guid>https://macdiary.github.io/posts/contacts-transfer/</guid>
       <description>iOS နှင့် Android အကြား Phone Contacts list တွေကို အကြောင်းအမျိုးမျိုးအတွက် ရွေ့ပြောင်းထည့်သွင်းဖို့ လိုလာတတ်ပါတယ်။ Android ကနေ iOS ကို Contacts တွေ ပြောင်းရွေ့ဖို့အတွက် “Move to iOS” application ကို Apple က Android apk အဖြစ် Google PlayStore မှာ ဖန်တီးပေးထားတာကြောင့် mobile ပေါ်မှအလွယ်တစ်ကူ ပြောင်းရွေ့နိုင်ပါတယ်။
  သို့သော် iPhone ထဲက Contacts တွေကို အခြား Android ဖုန်းတစ်လုံးထဲသို့ ရွေ့ပြောင်းဖို့ ဆိုရင်တော့ Computer တစ်လုံးကနေ လုပ်ဆောင်မှသာ ချောမွေ့ပြေပြစ်နိုင်ပါလိမ့်မယ်။ (မှတ်ချက်။ ။ Mobile Safari Browser မှာ Desktop Site အနေနဲ့ ကြိုးစားနိုင်သော်လည်း အခြား application အကူညီများရယူပြီးမှ ခက်ရခက်ဆစ် လုပ်ဆောင်ရပါလိမ့်မယ်၊ ဒါကြောင့်မို့ Computer မှသာ လုပ်ဆောင်ဖို့ တိုက်တွန်းပါရစေ)</description>
     </item>
     
     <item>
       <title>How to set Notes password on iOS &amp; Mac </title>
-      <link>https://nayzaraung.github.io/posts/lock-notes/</link>
+      <link>https://macdiary.github.io/posts/lock-notes/</link>
       <pubDate>Fri, 25 Mar 2016 23:52:08 +0800</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/lock-notes/</guid>
+      <guid>https://macdiary.github.io/posts/lock-notes/</guid>
       <description>Apple iOS 9.3 ရဲ့ လုပ်ဆောင်ချက် အသစ်တွေထဲက နှစ်သက်မိတာလေး တစ်ခုကတော့ Notes တွေကို Lock ချပြီးသိမ်းထားနိုင်တာပဲ ဖြစ်ပါတယ်။ မိမိအတွက် အရေးကြီးတဲ့ နေ့စဉ်မှတ်တမ်းတွေ၊ မှတ်စု အစရှိတာတွေကို အခြားသူများ အလွယ်တစ်ကူ မမြင်တွေ့နိုင်အောင် password ချကာ ကာကွယ်ပေးထားနိုင်တဲ့ အတွက် လုံခြုံမှုရှိစေပါတယ်။
 အဆိုပါ လုပ်ဆောင်ချက်အသစ်ကို iOS 9.3 နှင့်အတူ Mac OS X 10.11.4 မှာလည်း တစ်ပြိုင်တည်း ရရှိ အသုံးပြုနိုင်ပါပြီ&amp;hellip;။ ချွင်းချက်အနေနဲ့ကတော့ iCloud account တွင် ရေးသားထားသော Notes များကိုသာ Lock ချပေးနိုင်ပြီး၊ အခြား email account များတွင် သိမ်းထားသော Notes များကိုတော့ Lock လုပ်နိုင်မည် မဟုတ်ပါ။ ထို့ကြောင့် အခြား mail account များတွင် မှတ်သားထားသော အရေးကြီး Notes များကို Lock ချလိုပါက iCloud ထဲသို့ ပြောင်းရွေ့ပြီးမှ Lock လုပ်နိုင်ပါလိမ့်မယ်။</description>
     </item>
     
     <item>
       <title>Myanmar Holiday Calendar</title>
-      <link>https://nayzaraung.github.io/posts/mm-holiday-calendar/</link>
+      <link>https://macdiary.github.io/posts/mm-holiday-calendar/</link>
       <pubDate>Fri, 12 Feb 2016 15:16:36 +0800</pubDate>
       
-      <guid>https://nayzaraung.github.io/posts/mm-holiday-calendar/</guid>
+      <guid>https://macdiary.github.io/posts/mm-holiday-calendar/</guid>
       <description>Mac OS X နဲ့ iDevices (iPhone, iPad, iPad Pro, iPodTouch) တို့ရဲ့ ပြက္ခဒိန်မှာ မြန်မာနိုင်ငံရဲ့ နေ့ထူးနေ့မြတ်များ၊ ရုံးပိတ်ရက်များကို တစ်နှစ်လုံးစာ အတွက် ထည့်သွင်းနိုင်ပြီး၊ အဆိုပါ နေ့ထူးနေ့မြတ်များရဲ့ အဓိပ္ပါယ်ဖွင့်ဆိုချက်ကိုလည်း မြန်မာဘာသာ(ယူနီကုဒ်စနစ်)ဖြင့် မြင်တွေ့ဖတ်ရှုနိုင်မှာ ဖြစ်ပါတယ်။
 အဆိုပါ မြန်မာအားလပ်ရက် ပြက္ခဒိန်ကို &amp;ldquo;ကိုဆန်းထွန်း” (ပြည်ထောင်စုဖောင့် ဖန်တီးသူ) မှ မြန်မာဘာသာ ရှင်းလင်းချက်နှင့်အတူ ပြန်လည် ပြုပြင်ဖန်တီးပေးထားခြင်း ဖြစ်ပါတယ်။
 Mac OS X မှာ သွင်းယူပြီးနောက် iCloud ချိပ်ဆက်မှုဖြင့် မိမိရဲ့ အခြား iDevices များမှာပါ အလိုလျှောက် သွင်းယူပြီးသား ဖြစ်သွားပါလိမ့်မည်။
