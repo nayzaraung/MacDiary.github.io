@@ -16,7 +16,7 @@
       <description>အခုနောက်ဆုံးထွက်လာတဲ့ Adobe Creative Cloud မှာ Application ဗားရှင်း အဟောင်းတွေကို Download ချ Install လုပ်ခွင့်မပြုတော့ပါဘူး။
 အကြောင့်အမျိုးမျိုးကြောင့် Adobe version အဟောင်းတွေကို Install လုပ်မှ ဖြစ်မယ့် (အထူးသဖြင့် M1 Chip စက်ပိုင်ရှင်များ) အတွက် Adobe CC ကနေ download ပြန်ချနိုင်မယ့် နည်းလမ်းလေးကို ဖော်ပြပေးလိုက်ပါတယ်။
 Terminal ထဲမှာ အောက်က code ကို ရိုက်သွင်းပါ
- /bin/bash -c &#34;$(curl -fsSL https://gist.github.com/thpryrchn/c0ea1b6793117b00494af5f05959d526/raw/install.sh)&#34; -- /bin/bash -c &#34;$(curl -fsSL https://gist.github.com/thpryrchn/c0ea1b6793117b00494af5f05959d526/raw/install.sh)&#34;</description>
+ /bin/bash -c &#34;$(curl -fsSL https://gist.github.com/thpryrchn/c0ea1b6793117b00494af5f05959d526/raw/install.sh)&#34;</description>
     </item>
     
     <item>
