@@ -6,7 +6,19 @@
     <description>Recent content in adobe on Mac Diary</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Nov 2021 15:56:17 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/adobe/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 Dec 2021 15:39:53 +0630</lastBuildDate><atom:link href="https://nayzaraung.github.io/tags/adobe/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Download Older version of Adobe Apps with Creative Cloud </title>
+      <link>https://nayzaraung.github.io/posts/install_adobe_older_version_apps/</link>
+      <pubDate>Thu, 09 Dec 2021 15:39:53 +0630</pubDate>
+      
+      <guid>https://nayzaraung.github.io/posts/install_adobe_older_version_apps/</guid>
+      <description>အခုနောက်ဆုံးထွက်လာတဲ့ Adobe Creative Cloud မှာ Application ဗားရှင်း အဟောင်းတွေကို Download ချ Install လုပ်ခွင့်မပြုတော့ပါဘူး။
+အကြောင့်အမျိုးမျိုးကြောင့် Adobe version အဟောင်းတွေကို Install လုပ်မှ ဖြစ်မယ့် (အထူးသဖြင့် M1 Chip စက်ပိုင်ရှင်များ) အတွက် Adobe CC ကနေ download ပြန်ချနိုင်မယ့် နည်းလမ်းလေးကို ဖော်ပြပေးလိုက်ပါတယ်။
+Terminal ထဲမှာ အောက်က code ကို ရိုက်သွင်းပါ
+ /bin/bash -c &#34;$(curl -fsSL https://gist.github.com/thpryrchn/c0ea1b6793117b00494af5f05959d526/raw/install.sh)&#34;</description>
+    </item>
+    
     <item>
       <title>Adobe 2021 Working with M1 Monterey OS</title>
       <link>https://nayzaraung.github.io/posts/adobe2021withmonterey/</link>
