@@ -1,0 +1,170 @@
+	
+	<!doctype html>
+<html lang="en">
+  <head>
+    <title>NayZarAung - How To Disable Gatekeeper</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+
+    
+    <link href="/css/milk.min.css" rel="stylesheet">
+    <link href="/css/milk-responsive.min.css" rel="stylesheet">     
+    <link href="/css/style.css" rel="stylesheet" type="text/css" media="all">
+    <link href="/css/fonts.css" rel="stylesheet" type="text/css" media="all">
+    <script src="https://use.fontawesome.com/52ab3615c7.js"></script>
+    <link rel="shortcut icon" href="/images/myicon.ico">
+    <link rel="apple-touch-icon" href="">
+    <link rel="canonical" href="https://nayzaraung.github.io/posts/how-to-disable-gatekeeper/">
+
+    
+    <link href="/rss.xml" type="application/atom+xml" rel="alternate" title="Mac Diary">
+
+  </head>
+  <body>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id; js.async=true;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v10.0&appId=910950673077957";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+    
+    <div class="navbar navbar-fixed-top">
+  <div id="navbar-inner">
+    <div id="logo">
+       <a href="https://nayzaraung.github.io/"><img src="/images/monterey.png" width="100px"></img></a>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="content">
+    <div class="row-fluid">
+      <div class="span12">
+        <div class="posts">
+
+
+	    
+	  <div class="post">
+	    <header class="post-header">
+	        <h1><a href="/posts/how-to-disable-gatekeeper/">How To Disable Gatekeeper</a></h1>
+	        <div class="post-time">August 2 2023</div>
+	    </header>
+	    <div class="post-after">
+	        <div class="tags">
+	            
+	                <a href="https://nayzaraung.github.io//tags/how-to">how to</a>
+	            
+	                <a href="https://nayzaraung.github.io//tags/mac">mac</a>
+	            
+	        </div>
+	    </div>
+	    <hr>
+	    <div class="post content">
+	        <p>        လုံခြုံမှုကို ဦးစားပေးတဲ့ Apple ရဲ့ ထုံးစံအတိုင်း MacOS မှာ application တွေ သွင်းယူမယ်ဆိုရင် App Store ရဲ့ Official Application တွေနဲ့ အသိမှတ်ပြု developer တွေရဲ့ App တွေကိုသာ ခွင့်ပြုထားပါတယ်။
+<br></p>
+<p align="center"><img src="https://github.com/nayzaraung/blog/blob/main/Photos/Gatekeeper_01.png" alt="Installation Error" /></p>
+<p>Third-party app တွေ cracked app တွေကို သွင်းဖို့ ကြိုးစားတယ်ဆိုရင်တော့ဖော်ပြပါပုံထဲကလို &ldquo;Install&rdquo; cannot be opened ဆိုတဲ့ pop-up တက်လာတတ်ပါတယ်။
+ဒါဟာ Apple ရဲ့ Security ဖြစ်တဲ့ Gatekeeper က တားထားလို့ ဖြစ်ပါတယ်။</p>
+<p>System Preferences ထဲက Security &amp; Privacy (M1/M2 တွေမှာဆိုရင် Security လို့ serch box မှာ ရိုက်ရှာ) ကို ဖွင့်ကြည့်မယ်ဆိုရင် App Store နဲ့ App Store and identified developers ဆိုတဲ့ Option နှစ်ခုကိုပဲတွေ့ရပါလိမ့်မယ်။
+<br></p>
+<p align="center"><img src="https://github.com/nayzaraung/blog/blob/main/Photos/Gatekeeper_02.png" alt="Security and Privacy" /></p>
+<p>အခြားသော App တွေ သွင်းဖို့အတွက် Gatekeeper ကို ဖွင့်ပေးဖို့လိုအပ်ပါတယ်။
+MacOS ရဲ့ version တွေ မြင့်လာတာနဲ့အမျှ Gatekeeper ရဲ့ လုံခြုံရေးကိုလဲ Apple က အဆင့်မြှင့်လာပါတယ်။
+သို့မယ့်လည်း ကံကောင်းစွာနဲ့ပဲ အခုချိန်ထိတော့ Gatekeeper ကို ဖွင့်နိုင်တဲ့ နည်းလမ်းရှိနေပါသေးတယ်။
+<br><br>
+Gatekeeper ဖွင့်ဖို့ လုပ်ဆောင်ရန်
+        <font color="blue">အဆင့် (၁)</font> &ldquo;Terminal&rdquo; application ကို ဖွင့်ပါ။</p>
+<p>        <font color="blue">အဆင့် (၂)</font> အောက်တွင်ဖော်ပြထားသော command ကို Copy ကူးပြီး Paste လုပ်ပါ..</p>
+<pre><code>sudo spctl --master-disable</code></pre>
+<p>Enter နှိပ်ပြီး Admin password တောင်းပါက password ရိုက်ထည့်ပါ (password ပေါ်မည်မဟုတ်)။
+Enter နှိပ်ပါ။
+        <font color="blue">အဆင့် (၃)</font> အခုဆိုရင် Gatekeeper အမြဲတမ်းပွင့်သွားပါပြီ။ System Preferences ကို ပြန်သွားပြီး ကြည့်ပါက အောက်ပါအတိုင်း &ldquo;Anywhere&rdquo; option တစ်ခု တိုးလာပါမည်။
+&ldquo;Anywhere&rdquo; ကို ရွေးထားပါ။
+<br></p>
+<p align="center"><img src="https://github.com/nayzaraung/blog/blob/main/Photos/Gatekeeper_03.png" alt="Security and Privacy" /></p>
+<p>ဒါဆိုရင်တော့ မည်သည့် App ကိုမဆို အတားအဆီးမရှိ သွင်းနိုင်သွားပါလိမ့်မယ်။
+အကယ်၍ Gatekeeper ကို ပြန်ပိတ်လိုပါက Terminal ကို ပြန်ဖွင့်ပြီး ဖော်ပြပါ command ကို ရိုက်ထည့်ပြီး Enter နှိပ်ပါ။</p>
+<pre><code>sudo spctl --master-enable</code></pre>
+<p align="center"><font color="tomato">❝အခမဲ့❞ ဆိုတဲ့ အရာတိုင်းမှာ ခန့်မှန်းလို့မရနိုင်တဲ့ ❝တန်ဘိုး❞ တစ်ခု အမြဲရှိနေပါတယ်</font></p>
+	    </div>
+	    
+	    
+	  
+ <div class="fblike">
+	    		<div class="fb-like" data-href="/posts/how-to-disable-gatekeeper/" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+	    </div><br> 
+	
+	    
+	       
+	<div class="about">
+	<p> 
+     
+    </p>
+</div>
+		<nav id="pagination">
+			
+			<a class="next" href="https://nayzaraung.github.io/posts/fixed-clean-mymac-error/">Next</a>
+		</nav>
+		<p>
+	<div class="row">
+      <div class="small-offset-1 small-10 columns">
+        <div id="disqus_thread"></div>
+        <script type="text/javascript">                        
+        var disqus_shortname = 'nayzaraung'; 
+        var disqus_developer = 1;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+        </script>
+        <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+    </div>
+    
+	<p>
+	<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-XXXXXXXX-X']);
+  _gaq.push(['_trackPageview']);
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+	
+		        <footer>
+		        	<a href="https://www.facebook.com/mymacdiary/" target="_blank">Facebook</a> 
+		        	<p> MAC DIARY 2015</p>
+		        </footer>
+		    </div>
+		  </div>
+		</div>
+      </div>
+    </div>
+</body>
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u=(("https:" == document.location.protocol) ? "https" : "http") + ":change-me";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', 4]);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+    g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+
+</html>
+
